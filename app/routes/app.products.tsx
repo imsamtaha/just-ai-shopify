@@ -19,9 +19,10 @@ export default function Products() {
         <Form method="get" key={search + ":" + status}>
           <s-grid gridTemplateColumns="repeat(auto-fit, minmax(180px, 1fr))" gap="base" alignItems="end">
             <s-text-field label="Product title" name="q" defaultValue={search} maxLength={200} placeholder="Search your catalog" />
-            <s-select label="Status" name="status" defaultValue={status}>
-              <s-option value="">All statuses</s-option><s-option value="ACTIVE">Active</s-option>
-              <s-option value="DRAFT">Draft</s-option><s-option value="ARCHIVED">Archived</s-option>
+            <s-select label="Status" name="status">
+              {[["", "All statuses"], ["ACTIVE", "Active"], ["DRAFT", "Draft"], ["ARCHIVED", "Archived"]].map(([value, label]) => (
+                <s-option key={value} value={value} {...(status === value ? { defaultSelected: true } : {})}>{label}</s-option>
+              ))}
             </s-select>
             <s-button type="submit" variant="primary" {...(busy ? { loading: true } : {})}>Search</s-button>
             <s-button href="/app/products">Clear</s-button>

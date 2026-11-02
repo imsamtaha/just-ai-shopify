@@ -13,7 +13,7 @@
     "start": "react-router-serve ./build/server/index.js",
     "docker-start": "npm run setup && npm run start",
     "setup": "prisma generate && prisma migrate deploy",
-    "lint": "eslint app tests vite.config.ts .graphqlrc.ts",
+    "lint": "eslint app tests vite.config.ts vitest.config.ts",
     "test": "vitest run",
     "check": "npm run lint && npm run typecheck && npm test && npm run build",
     "shopify": "shopify",
@@ -29,7 +29,6 @@
   "dependencies": {
     "@prisma/client": "^6.19.0",
     "@react-router/dev": "7.18.2",
-    "@react-router/fs-routes": "7.18.2",
     "@react-router/node": "7.18.2",
     "@react-router/serve": "7.18.2",
     "@shopify/app-bridge-react": "^4.2.4",
@@ -74,7 +73,13 @@
   ],
   "overrides": {
     "p-map": "^4.0.0",
-    "qs": "^6.16.0"
+    "qs": "^6.16.0",
+    "@prisma/config": {
+      "deepmerge-ts": "^8.0.0"
+    },
+    "express@^4.0.0": {
+      "body-parser": "^1.20.9"
+    }
   },
   "resolutions": {
     "qs": "^6.16.0"

@@ -7,12 +7,17 @@ import { loader as products } from "../app/routes/app.products";
 import { loader as overview } from "../app/routes/app._index";
 import { loader as operations } from "../app/routes/app.operations";
 
+function loaderArgs(path: string) {
+  const url = new URL(path, "https://app.example");
+  return { request: new Request(url), url, pattern: url.pathname, params: {}, context: {} };
+}
+
 describe("protected route loaders", () => {
   beforeEach(() => vi.clearAllMocks());
   it.each([products, overview, operations])("rejects an unauthenticated request before reading store data", async (loader) => {
     const rejection = new Response("Unauthorized", { status: 401 });
     mocks.admin.mockRejectedValue(rejection);
-    await expect(loader({ request: new Request("https://app.example/app"), params: {}, context: {} })).rejects.toBe(rejection);
+    await expect(loader(loaderArgs("/app"))).rejects.toBe(rejection);
     expect(mocks.catalog).not.toHaveBeenCalled();
     expect(mocks.overview).not.toHaveBeenCalled();
   });
@@ -20,7 +25,7 @@ describe("protected route loaders", () => {
     const client = { graphql: vi.fn() };
     mocks.admin.mockResolvedValue({ admin: client, session: { accessToken: "private" } });
     mocks.catalog.mockResolvedValue({ catalog: null, error: "offline" });
-    const result = await products({ request: new Request("https://app.example/app/products?q=basic"), params: {}, context: {} });
+    const result = await products(loaderArgs("/app/products?q=basic"));
     expect(mocks.catalog).toHaveBeenCalledWith(client, new URL("https://app.example/app/products?q=basic"));
     expect(JSON.stringify(result)).not.toContain("private");
   });
