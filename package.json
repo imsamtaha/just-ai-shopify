@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@shopify/cli": "^5.0.0",
-    "vitest": "^3.2.4",
+    "vitest": "^5.0.3",
     "@shopify/api-codegen-preset": "^2.0.0",
     "@shopify/polaris-types": "1.0.1",
     "@types/eslint": "^9.6.1",
