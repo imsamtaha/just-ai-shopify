@@ -1,0 +1,12 @@
+.env
+telegram.env
+openai.env
+.venv/
+venv/
+data/
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+.env-*
+*.sqlite3*

@@ -1,0 +1,11 @@
+﻿Tool / الأداة,Purpose / الغرض,Required / مطلوب,Cost Notes / ملاحظات التكلفة,Connection Status / حالة الاتصال,Notes / ملاحظات
+Notion,Pages and tracking databases / صفحات وقواعد بيانات للتتبع,Optional / اختياري,Free/paid features vary / تختلف الميزات المجانية والمدفوعة,Not connected / غير متصل,Import Markdown and CSV manually / استورد Markdown وCSV يدوياً
+Shopify,Storefront and paid orders / واجهة متجر وطلبات مدفوعة,Optional / اختياري,Separate account and plan / حساب وخطة منفصلان,Not connected / غير متصل,Check payment and delivery setup / تحقق من إعداد الدفع والتسليم
+WhatsApp Business,Customer communication / التواصل مع العملاء,Optional / اختياري,Separate app / تطبيق منفصل,Not connected / غير متصل,Respect opt-in and platform rules / احترم الموافقة وقواعد المنصة
+Instagram,Organic marketing / التسويق العضوي,Optional / اختياري,Separate account / حساب منفصل,Not connected / غير متصل,Use accurate photos and claims / استخدم صوراً دقيقة وادعاءات صحيحة
+Google Sheets,Customer and order tracker / تتبع العملاء والطلبات,Optional / اختياري,Account may be required / قد يلزم حساب,Not connected / غير متصل,Restrict access to personal records / قيّد الوصول إلى السجلات الشخصية
+ChatGPT or compatible AI / ChatGPT أو أداة ذكاء اصطناعي متوافقة,Draft content with prompts / صياغة محتوى بالأوامر,Optional / اختياري,Free/paid plan varies / تختلف الخطة المجانية أو المدفوعة,Not connected / غير متصل,Do not paste sensitive customer information / لا تلصق معلومات عملاء حساسة
+Make,No-code integration / تكامل دون برمجة,Optional / اختياري,Separate plan / خطة منفصلة,Not connected / غير متصل,Blueprints require configuration / تتطلب المخططات الإعداد
+Zapier,No-code integration / تكامل دون برمجة,Optional / اختياري,Separate plan / خطة منفصلة,Not connected / غير متصل,Blueprints require configuration / تتطلب المخططات الإعداد
+n8n,Automation platform / منصة أتمتة,Optional / اختياري,Self-hosted/cloud varies / تختلف الاستضافة الذاتية والسحابية,Not connected / غير متصل,No workflows auto-enabled in this kit / لا توجد مهام مفعّلة تلقائياً في الحزمة
+Pipedream,Code step automation / أتمتة بخطوات برمجية,Optional / اختياري,Separate plan / خطة منفصلة,Not connected / غير متصل,Use the safe utility examples only / استخدم أمثلة الأدوات الآمنة فقط

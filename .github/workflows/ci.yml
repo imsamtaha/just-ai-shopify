@@ -1,39 +1,30 @@
-on: [push, pull_request]
-
-name: CI
-
+name: Checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
 jobs:
-  CI:
-    name: Node ${{ matrix.node }} and ${{ matrix.manager }}
+  app:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node: [22, 24]
-        manager: ['npm', 'yarn', 'pnpm']
+    env:
+      DATABASE_URL: file:./dev.sqlite
     steps:
-      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
-      - uses: actions/setup-node@53b83947a5a98c8d113130e565377fae1a50d02f # v6.3.0
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: ${{ matrix.node }}
-
-      - name: Install pnpm
-        if: ${{ matrix.manager == 'pnpm' }}
-        uses: pnpm/action-setup@0e279bb959325dab635dd2c09392533439d90093 # v6.0.8
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run setup
+      - run: npm run check
+  telegram:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: integrations/telegram
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          version: 8
-
-      - name: Install dependencies using ${{ matrix.manager }}
-        run: ${{ matrix.manager }} install
-
-      - name: Run TypeScript type checking
-        if: ${{ !startsWith(github.head_ref || github.ref_name, 'javascript') }}
-        run: npx tsc --noEmit
-
-      - name: Run ESLint
-        run: npm run lint
-
-      - name: Validate Prisma
-        run: npx prisma generate && npx prisma validate
-
-      - name: Build application
-        run: npm run build
+          python-version: '3.13'
+      - run: python -m pip install -r requirements-dev.txt
+      - run: python -m pytest -q

@@ -1,0 +1,18 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.zip binary
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.xlsx binary
+# Preserve imported files byte-for-byte for checksum verification.
+products/** -text
+archive/** -text
+catalog/** -text
+integrations/** -text
+docs/history/** -text

@@ -1,0 +1,83 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:07.487
+Extract the complete v2 ZIP
+
+00:00:07.487 --> 00:00:14.975
+Open Original, then 00_READ_ME_FIRST.md
+
+00:00:14.975 --> 00:00:22.462
+The original package contains the complete BASIC kit, Notion import files, eight workflow playbooks, three optional JavaScript utilities, and five operating procedure documents
+
+00:00:22.462 --> 00:00:29.950
+Start with one workflow, not every file at once.
+
+00:00:29.950 --> 00:00:35.842
+Open 02_Notion_Import
+
+00:00:35.842 --> 00:00:41.735
+The Markdown home page and CSV databases can be imported into your own Notion workspace using its import controls
+
+00:00:41.735 --> 00:00:47.628
+Import each CSV as a separate database and check the headers
+
+00:00:47.628 --> 00:00:53.521
+You can also edit the CSV files in a spreadsheet without using Notion.
+
+00:00:53.521 --> 00:00:59.017
+Choose New WhatsApp inquiry in the Workflows database
+
+00:00:59.017 --> 00:01:04.513
+Set the owner to the person answering messages
+
+00:01:04.513 --> 00:01:10.009
+Set a review date and adapt the tools to your process
+
+00:01:10.009 --> 00:01:15.505
+Open the matching playbook in 03_Workflow_Playbooks
+
+00:01:15.505 --> 00:01:21.001
+Keep its sequence: verify product, check stock, draft reply, approve, then log the result.
+
+00:01:21.001 --> 00:01:26.233
+Use a fictional customer asking for a blue linen shirt
+
+00:01:26.233 --> 00:01:31.464
+Check a demo stock list, adapt a BASIC reply, and record the inquiry in a test tracker
+
+00:01:31.464 --> 00:01:36.696
+Stop if price or stock is missing
+
+00:01:36.696 --> 00:01:41.927
+Compare the result with the playbook before using the process with real customers.
+
+00:01:41.927 --> 00:01:48.504
+The three JavaScript utilities are examples for a Node.js compatible environment
+
+00:01:48.504 --> 00:01:55.081
+Read 04_Automation_Starter_Code/00_CODE_SETUP.md first
+
+00:01:55.081 --> 00:02:01.657
+The files normalize a lead, flag duplicate order references, and create an approved WhatsApp draft link
+
+00:02:01.657 --> 00:02:08.234
+They do not install a live integration or send messages
+
+00:02:08.234 --> 00:02:14.811
+Non-technical users can skip this folder.
+
+00:02:14.811 --> 00:02:20.251
+Use the AI Review Checklist from 05_AI_SOP_Library
+
+00:02:20.251 --> 00:02:25.691
+Confirm consent, factual claims, correct ownership and a recovery step
+
+00:02:25.691 --> 00:02:31.131
+Keep a human approval step and start with one test case
+
+00:02:31.131 --> 00:02:36.571
+Back up your workspace and review the workflow weekly
+
+00:02:36.571 --> 00:02:42.011
+Accounts, paid tools and custom implementation are separate.
+

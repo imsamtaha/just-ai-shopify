@@ -1,0 +1,24 @@
+start - Open your JUST AI workspace
+help - Commands and examples
+menu - Open the menu
+skills - Choose an assistant skill
+mode - Select an assistant mode
+skin - Choose classic, minimal, or friendly
+language - Select auto, en, or ar
+ask - Ask the assistant
+prompt - Create a reusable prompt
+note - Save a note
+notes - List saved notes
+note_delete - Delete a note by ID
+task - Save a task
+tasks - List saved tasks
+done - Complete a task by ID
+task_delete - Delete a task by ID
+history - View recent conversation
+reset - Clear AI conversation memory
+status - Settings and daily usage
+privacy - Learn how your data is used
+forget - Delete saved personal data
+whoami - Show your Telegram user ID
+
+settings - View or change preferences

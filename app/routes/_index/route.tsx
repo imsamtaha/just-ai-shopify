@@ -21,9 +21,9 @@ export default function App() {
   return (
     <div className={styles.index}>
       <div className={styles.content}>
-        <h1 className={styles.heading}>A short heading about [your app]</h1>
+        <h1 className={styles.heading}>JUST AI Shopify</h1>
         <p className={styles.text}>
-          A tagline about [your app] that describes your value proposition.
+          Your catalog, digital products, and store operations in one workspace.
         </p>
         {showForm && (
           <Form className={styles.form} method="post" action="/auth/login">
@@ -39,16 +39,13 @@ export default function App() {
         )}
         <ul className={styles.list}>
           <li>
-            <strong>Product feature</strong>. Some detail about your feature and
-            its benefit to your customer.
+            <strong>Catalog overview</strong>. View current product counts and status.
           </li>
           <li>
-            <strong>Product feature</strong>. Some detail about your feature and
-            its benefit to your customer.
+            <strong>Product search</strong>. Find products and open them in Shopify Admin.
           </li>
           <li>
-            <strong>Product feature</strong>. Some detail about your feature and
-            its benefit to your customer.
+            <strong>Operations guides</strong>. Follow payment and digital-delivery procedures.
           </li>
         </ul>
       </div>

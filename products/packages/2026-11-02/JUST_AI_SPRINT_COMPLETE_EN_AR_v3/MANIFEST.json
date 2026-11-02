@@ -1,0 +1,50 @@
+{
+  "CAPTIONS_EN.vtt": {
+    "bytes": 2585,
+    "sha256": "130348b6f5060786368f43b6dfc66b907436a97c55284e568a5b93b4755bb431"
+  },
+  "HOW_TO.mp4": {
+    "bytes": 1697770,
+    "sha256": "c3697042dfa7d3553414b5ae37cfa475b17a8e2cef839e5d3e001d74684ef9ac"
+  },
+  "Original/00-START-HERE.html": {
+    "bytes": 11126,
+    "sha256": "b6421fafafad02752b83b9dab4b89167d22e7233bacf56108287fcc36d57aa1a"
+  },
+  "Original/01-PLANNER.html": {
+    "bytes": 19594,
+    "sha256": "1ef0703dba00ca12ec8a9cc716749235704c6f1b17e0cd653774d41456a79518"
+  },
+  "Original/02-CAPTIONS-EN-AR.md": {
+    "bytes": 8183,
+    "sha256": "254795b725ea474bf5ecabb95c545e6764c42190d271ca9ad755f72ead2c67db"
+  },
+  "Original/03-VIDEO-AND-AI-PROMPTS.md": {
+    "bytes": 13373,
+    "sha256": "2130c25778a428d9d724bb8418441d5b467b423cb75d59db3ea722af52362a74"
+  },
+  "Original/04-WORKED-EXAMPLE.md": {
+    "bytes": 8788,
+    "sha256": "411ace375f3e3b6186b56476fb31bef3e4397a3ab05038b833bb4bca587fe250"
+  },
+  "Original/05-LICENSE.txt": {
+    "bytes": 2310,
+    "sha256": "b2af7027ab401b491bf2756838d1ea9558132ad4ec5cf3b6412fdab79cf7d01c"
+  },
+  "START_HERE.html": {
+    "bytes": 9822,
+    "sha256": "73d3902000a9d453b34571af5f299c3cdd23bcc9868ac7a33a5176cd774f8312"
+  },
+  "TRANSCRIPT_EN_AR.md": {
+    "bytes": 3848,
+    "sha256": "1c036fdbde4441e79b763eaa52c7cbee4daad6518b9983fc3b8faac46968c89a"
+  },
+  "VERSION_NOTES_EN_AR.md": {
+    "bytes": 1976,
+    "sha256": "08040c32c30eb0b9a43eb3f721ef88fb1a1c2735ddc74885c29a35a8bd307581"
+  },
+  "VIDEO_POSTER.png": {
+    "bytes": 35488,
+    "sha256": "ed82f3540af6286a6230e4f191e011ac2e7d656d6c9664a1e894711c0a264fb8"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "CAPTIONS_EN.vtt": {
+    "bytes": 2678,
+    "sha256": "e6bd4d9fbf4053f9419ae7b52b2d6817b624c32001fad3265f0c618f31497c95"
+  },
+  "HOW_TO.mp4": {
+    "bytes": 1952536,
+    "sha256": "2bae49e9e7241223e9b98b426db75cb2cf77b41163695aaa635907492ef12e52"
+  },
+  "Original/00_READ_ME_FIRST.md": {
+    "bytes": 6143,
+    "sha256": "74853cc87aaa078f7627bee5a185c7c39f3124b42e73266f187a2b22105ce6ff"
+  },
+  "Original/01_Original_Sales_Kit/00_START_HERE.docx": {
+    "bytes": 39789,
+    "sha256": "4b4f2499c3ea139c8b4cfdd995e109a9971f266e16e9ca7f51fe43f2537c66b4"
+  },
+  "Original/01_Original_Sales_Kit/00_START_HERE.pdf": {
+    "bytes": 76100,
+    "sha256": "dcba3d94eeaa47307eaa785b1bf846c49253f2b2a6766f2a6ae9ee11bfad33a9"
+  },
+  "Original/01_Original_Sales_Kit/01_WhatsApp_50_Templates.docx": {
+    "bytes": 44098,
+    "sha256": "8a9746b3d45cd8b64f35703ca35ad3a69352031f63f7a14f72289c4cb9891f3e"
+  },
+  "Original/01_Original_Sales_Kit/02_Instagram_30_Posts.docx": {
+    "bytes": 43090,
+    "sha256": "1bffedae18901bf01ede2dd5858b425af20cfdbd74bcae4d65956222b8c78616"
+  },
+  "Original/01_Original_Sales_Kit/03_AI_Prompts_12.docx": {
+    "bytes": 41560,
+    "sha256": "464b65949d441e9da4b3bc0204726fd81c27900f9870ede4e74fb28b8d5c933f"
+  },
+  "Original/01_Original_Sales_Kit/04_Customer_Tracker.xlsx": {
+    "bytes": 9334,
+    "sha256": "358106ed2ab53f96d406172b03441791f8cc6e315eb5e6af19398dc97dba9a3a"
+  },
+  "Original/02_Notion_Import/00_JUST_AI_HOME.md": {
+    "bytes": 5292,
+    "sha256": "7a5c2196e0390f466593aa3e2548d0e3cb57ec98e94e391bb905a690302bea1d"
+  },
+  "Original/02_Notion_Import/01_Workflows.csv": {
+    "bytes": 5826,
+    "sha256": "c514912b56211f1a2044a63878c4bb21c1026891c73f98b5b2ac53be8b2affb9"
+  },
+  "Original/02_Notion_Import/02_Automations.csv": {
+    "bytes": 3572,
+    "sha256": "f815dd1296dbfa13f1a55a59744c7a64319db4bae94859f8f09048812210db09"
+  },
+  "Original/02_Notion_Import/03_Templates.csv": {
+    "bytes": 9423,
+    "sha256": "9a581b392dd51f7d7c875e831e4396dc733db6bcde84c6dece5d101cebb44f40"
+  },
+  "Original/02_Notion_Import/04_Tools_and_Stack.csv": {
+    "bytes": 3009,
+    "sha256": "2f6825863881d6ff852139e34576dd81f3be929d370a17184d899cd631ea4494"
+  },
+  "Original/02_Notion_Import/05_Ideas_and_Backlog.csv": {
+    "bytes": 2129,
+    "sha256": "6bfdeaf74743faf3ad98ade2cad25f1698ed1b163d870ed36ce365b69d004626"
+  },
+  "Original/03_Workflow_Playbooks/01_new_whatsapp_inquiry.md": {
+    "bytes": 3222,
+    "sha256": "4bda4a24c8443466ac94778b84d7ca1f99aaa5d9829e987423f84e14c7a5f428"
+  },
+  "Original/03_Workflow_Playbooks/02_product_question_to_quote.md": {
+    "bytes": 3315,
+    "sha256": "c95659430881481192c6979004ab385aee5855094f4790a6f75fbbc464599f73"
+  },
+  "Original/03_Workflow_Playbooks/03_opt_in_follow_up.md": {
+    "bytes": 3399,
+    "sha256": "6ef76340db9ff71af5d90a8af3a59a741f8ba3134b8e1819d49a5afb09a45d11"
+  },
+  "Original/03_Workflow_Playbooks/04_weekly_instagram_calendar.md": {
+    "bytes": 3406,
+    "sha256": "164286335d735fecfadc1c3870ab60d5a31189488a13221525961923e42604da"
+  },
+  "Original/03_Workflow_Playbooks/05_order_handoff.md": {
+    "bytes": 3184,
+    "sha256": "fe842bad928b8437d9054a50797327de83cdd50f9246268e2fa5b896c3ebf3c8"
+  },
+  "Original/03_Workflow_Playbooks/06_post_delivery_feedback.md": {
+    "bytes": 3033,
+    "sha256": "aa8b9cbc55eba7a70d6b7d4e5cf40bb346be520ce9b176fba452fda3321de6af"
+  },
+  "Original/03_Workflow_Playbooks/07_low_stock_check.md": {
+    "bytes": 3199,
+    "sha256": "aeb8934dc3d9501de527a8c404b0f12b0a4508224246e70d9c1a6c7a2f0e196e"
+  },
+  "Original/03_Workflow_Playbooks/08_weekly_sales_recap.md": {
+    "bytes": 3170,
+    "sha256": "1a32b91d7dbc93dedf57640cd45755c4074978401cd4e33c71f5c04299cc35d4"
+  },
+  "Original/04_Automation_Starter_Code/00_CODE_SETUP.md": {
+    "bytes": 4194,
+    "sha256": "41ffcaa720cd714cfcd8c73fcebc1eeeb2c2ec1cf6a0316674965896a87ea0b8"
+  },
+  "Original/04_Automation_Starter_Code/01_normalize_lead.js": {
+    "bytes": 1305,
+    "sha256": "aa646158842b1b36beb37b5a4c6c936d79e4c8524599f8612982185a5ec31296"
+  },
+  "Original/04_Automation_Starter_Code/02_dedupe_order_references.js": {
+    "bytes": 857,
+    "sha256": "7535d244de3ca9106c55382503dd1a081cd11131d5c735158a1ef687a547b64f"
+  },
+  "Original/04_Automation_Starter_Code/03_create_whatsapp_draft_url.js": {
+    "bytes": 1132,
+    "sha256": "c48d5b187697013853787e9c87d8e2aa8c4a36b7319affdc6ddcf10dd9b492f0"
+  },
+  "Original/05_AI_SOP_Library/01_Customer_Message_SOP.md": {
+    "bytes": 1824,
+    "sha256": "f6ebb2f7549215ec626f60164a95d17b7fae0870a9281af3228fee593332ae18"
+  },
+  "Original/05_AI_SOP_Library/02_Content_Approval_SOP.md": {
+    "bytes": 1720,
+    "sha256": "c778f91a16f070ab3aef2336b078027970be9562100ee56d44a7752b3f0d8f53"
+  },
+  "Original/05_AI_SOP_Library/03_Order_Handling_SOP.md": {
+    "bytes": 1448,
+    "sha256": "2a9442bfb6da839f4f3f3e9846bb3211ba53d2a86de4ea71c3a02257c920dc2f"
+  },
+  "Original/05_AI_SOP_Library/04_AI_Review_Checklist.md": {
+    "bytes": 1265,
+    "sha256": "39ef0d042cf7aebd04275ef545ac678fa379b17af042a8581c781cab5a49e28e"
+  },
+  "Original/05_AI_SOP_Library/05_Weekly_Operations_Review.md": {
+    "bytes": 1918,
+    "sha256": "40e07b7776a23b5f187c1b152abea201c16a2f12cac208161da2dd51505fdd2b"
+  },
+  "START_HERE.html": {
+    "bytes": 13402,
+    "sha256": "8d93f7ca88689652bdf70227cc8d5701c9f3b0aa5a077ccce986365f0db6412e"
+  },
+  "TRANSCRIPT_EN_AR.md": {
+    "bytes": 3952,
+    "sha256": "48f1e37960cb1cc32e0c5aa951d800bd3be3cb9c79a6174f0c58d14ec1a61bf8"
+  },
+  "VERSION_NOTES_EN_AR.md": {
+    "bytes": 1974,
+    "sha256": "6d513583f7fa3d1ba538db5fdcf4cbcb276cc8342216036d95596101ad5c4f17"
+  },
+  "VIDEO_POSTER.png": {
+    "bytes": 38446,
+    "sha256": "df131924c898c4900d29cac9aaf113add79b42cf8ca53c6b3184e4a64e27393f"
+  }
+}

@@ -1,0 +1,46 @@
+JUST AI — revised Whish Money instructions
+Store: just-ai-store.myshopify.com
+Prepared: 26 October 2026
+Status: Prepared for the existing manual payment method; NOT SAVED TO SHOPIFY.
+The recipient details below match the current public checkout configuration.
+
+PAYMENT METHOD NAME
+Whish Money
+
+ADDITIONAL DETAILS — displayed beside the payment method at checkout
+
+Pay by manual Whish Money transfer. Complete checkout first to receive your order number and transfer instructions. Your order remains unpaid until we verify receipt. Digital toolkit files are delivered after payment verification. Custom design services follow the scope and delivery schedule agreed before purchase.
+
+الدفع بتحويل يدوي عبر Whish Money. أكمل الطلب أولاً للحصول على رقم الطلب وتعليمات التحويل. يبقى الطلب بانتظار الدفع حتى نتحقق من استلام المبلغ. تُسلّم ملفات الحزم الرقمية بعد تأكيد الدفع، وتُنفّذ خدمات التصميم حسب نطاق العمل وموعد التسليم المتفق عليهما قبل الشراء.
+
+PAYMENT INSTRUCTIONS — displayed after the order is placed
+
+1. Transfer the exact order total in USD through Whish Money to:
+   Whish number: 76 420 910
+   Recipient: Samir Taha
+   Check the recipient name before confirming the transfer.
+2. Add your Shopify order number to the transfer note if this option is available. Keep the transaction reference.
+3. Email your order number and transaction reference to ImSamtaha.ai@gmail.com so we can match the transfer to your order.
+4. We confirm payment after checking that the funds have arrived. A receipt image alone does not confirm payment. Your order remains unpaid until verification.
+5. For digital toolkits, files are delivered after verified payment. For custom design services, work and delivery follow the scope and schedule agreed before purchase.
+If you need help with the transfer or your order, contact ImSamtaha.ai@gmail.com.
+
+١. حوّل إجمالي الطلب بالدولار الأميركي عبر Whish Money إلى:
+   رقم Whish: 76 420 910
+   اسم المستلم: Samir Taha
+   تحقّق من اسم المستلم قبل تأكيد التحويل.
+٢. أضف رقم طلب Shopify إلى ملاحظة التحويل إذا كان هذا الخيار متاحاً، واحتفظ بمرجع العملية.
+٣. أرسل رقم الطلب ومرجع التحويل إلى ImSamtaha.ai@gmail.com لنتمكن من مطابقة الدفعة مع طلبك.
+٤. نؤكد الدفع بعد التحقق من وصول المبلغ. صورة الإيصال وحدها لا تؤكد استلام الدفع. يبقى الطلب بانتظار الدفع حتى اكتمال التحقق.
+٥. للحزم الرقمية: تُسلّم الملفات بعد تأكيد الدفع. لخدمات التصميم المخصصة: يُنفّذ العمل والتسليم حسب النطاق والموعد المتفق عليهما قبل الشراء.
+للمساعدة بخصوص التحويل أو الطلب، تواصل معنا عبر ImSamtaha.ai@gmail.com.
+
+IMPLEMENTATION LOCATION
+Shopify admin > Settings > Payments > Manual payment methods > Whish Money > Manage.
+Replace the two text fields above on the existing Whish Money method, preserving its recipient and method identity. Save, then verify checkout text and a controlled pending-order confirmation before calling the update complete.
+
+VERIFICATION LIMIT
+The storefront and checkout configuration were retrieved. No payment was sent and no order was placed. The Shopify connector is working but does not expose an operation for editing manual payment settings. A secure browser sign-in session was opened at the owner's request; the saved profile has not yet reported a Shopify sign-in. The change has not been saved or tested in a completed order.
+
+SHOPIFY REFERENCE
+https://help.shopify.com/en/manual/payments/manual-payments

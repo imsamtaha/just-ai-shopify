@@ -1,0 +1,50 @@
+{
+  "CAPTIONS_EN.vtt": {
+    "bytes": 2471,
+    "sha256": "ebb8064055f176a4c58abb3883d90f159ae1a3841774c2367c93b793f11b10e6"
+  },
+  "HOW_TO.mp4": {
+    "bytes": 1760856,
+    "sha256": "191a19c0178171ef5712e7de8cdeba5032974394c021017ecad9469592a54af2"
+  },
+  "Original/00_START_HERE.docx": {
+    "bytes": 39789,
+    "sha256": "4b4f2499c3ea139c8b4cfdd995e109a9971f266e16e9ca7f51fe43f2537c66b4"
+  },
+  "Original/00_START_HERE.pdf": {
+    "bytes": 76100,
+    "sha256": "dcba3d94eeaa47307eaa785b1bf846c49253f2b2a6766f2a6ae9ee11bfad33a9"
+  },
+  "Original/01_WhatsApp_50_Templates.docx": {
+    "bytes": 44098,
+    "sha256": "8a9746b3d45cd8b64f35703ca35ad3a69352031f63f7a14f72289c4cb9891f3e"
+  },
+  "Original/02_Instagram_30_Posts.docx": {
+    "bytes": 43090,
+    "sha256": "1bffedae18901bf01ede2dd5858b425af20cfdbd74bcae4d65956222b8c78616"
+  },
+  "Original/03_AI_Prompts_12.docx": {
+    "bytes": 41560,
+    "sha256": "464b65949d441e9da4b3bc0204726fd81c27900f9870ede4e74fb28b8d5c933f"
+  },
+  "Original/04_Customer_Tracker.xlsx": {
+    "bytes": 9334,
+    "sha256": "358106ed2ab53f96d406172b03441791f8cc6e315eb5e6af19398dc97dba9a3a"
+  },
+  "START_HERE.html": {
+    "bytes": 9760,
+    "sha256": "a8b97e7f9bde81aa4bf482429fb8014e3f80c81d88a43e7a5be8d055d0a03c5d"
+  },
+  "TRANSCRIPT_EN_AR.md": {
+    "bytes": 3624,
+    "sha256": "edc3cceca96d9cc5a88e15ab872028128ce35dbeb274869dc41d74c79f4c1b84"
+  },
+  "VERSION_NOTES_EN_AR.md": {
+    "bytes": 1976,
+    "sha256": "8a7ab3e10c9e2afe1b1f8407c21d35a3b9bdb3bcb6b75105a44f6a5d5ac5af82"
+  },
+  "VIDEO_POSTER.png": {
+    "bytes": 43209,
+    "sha256": "237bc0d47694b51adb5c2eeb59ec2e1703cef0419c8b72df81d1e83fdff798ce"
+  }
+}

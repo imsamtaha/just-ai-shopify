@@ -1,0 +1,124 @@
+{
+  "built_on": "2026-11-02",
+  "source": "Local Downloads; Google Drive checked separately",
+  "packages": [
+    {
+      "kit": "BASIC",
+      "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-02\\JUST_AI_BASIC_COMPLETE_EN_AR_v3.zip",
+      "bytes": 1922553,
+      "sha256": "cf0e4ba30a26b10d89606b2fc3549f9d2723d8811cd745fbb2ef89fcf6676709",
+      "files": 13,
+      "resources_replaced": 6,
+      "source_zip": "<LOCAL_HOME>\\Downloads\\JUST_AI_Sales_Kit_BASIC_EN_AR_v2.zip",
+      "source_sha256": "09c6f281cad064e6247a432c2a22cc43f28080134cc89abe36c8d8cb392de790",
+      "tutorial_source_zip": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_BASIC_COMPLETE_v2.zip",
+      "tutorial_source_sha256": "7495ab2e92b4b70d8fc2d956562339dfc41629130bebd4bac67443ec8f9337a0",
+      "retained_assets_sha256": {
+        "HOW_TO.mp4": "191a19c0178171ef5712e7de8cdeba5032974394c021017ecad9469592a54af2",
+        "CAPTIONS_EN.vtt": "ebb8064055f176a4c58abb3883d90f159ae1a3841774c2367c93b793f11b10e6",
+        "TRANSCRIPT_EN_AR.md": "edc3cceca96d9cc5a88e15ab872028128ce35dbeb274869dc41d74c79f4c1b84",
+        "VIDEO_POSTER.png": "237bc0d47694b51adb5c2eeb59ec2e1703cef0419c8b72df81d1e83fdff798ce"
+      },
+      "all_resources_match_selected_source": true,
+      "manifest_and_crc_passed": true,
+      "validation": {
+        "office_files": 5,
+        "xml_parts": 82,
+        "csv_files": 0,
+        "html_links": 12,
+        "javascript_syntax_checks": 0,
+        "bilingual_documents": [
+          {
+            "file": "Original/00_START_HERE.docx",
+            "paired_numbered_templates": null
+          },
+          {
+            "file": "Original/01_WhatsApp_50_Templates.docx",
+            "paired_numbered_templates": 50
+          },
+          {
+            "file": "Original/02_Instagram_30_Posts.docx",
+            "paired_numbered_templates": 30
+          },
+          {
+            "file": "Original/03_AI_Prompts_12.docx",
+            "paired_numbered_templates": 12
+          }
+        ]
+      }
+    },
+    {
+      "kit": "PRO",
+      "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-02\\JUST_AI_PRO_COMPLETE_EN_AR_v3.zip",
+      "bytes": 2141814,
+      "sha256": "a29bb61d668a272229150db9884d6ed4fdc2f1d10a801a6b703e17bca492f180",
+      "files": 37,
+      "resources_replaced": 30,
+      "source_zip": "<LOCAL_HOME>\\Downloads\\JUST_AI_Sales_Kit_PRO_EN_AR_v2.zip",
+      "source_sha256": "85a377a226b6a07f485572c02321a4512abffbd84f8dd045618de47faf3368a8",
+      "tutorial_source_zip": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_PRO_COMPLETE_v2.zip",
+      "tutorial_source_sha256": "b3f9b07f609ed06beb28266e9fdbe67a95a42d32ab2475aab4944fc4b137b4b2",
+      "retained_assets_sha256": {
+        "HOW_TO.mp4": "2bae49e9e7241223e9b98b426db75cb2cf77b41163695aaa635907492ef12e52",
+        "CAPTIONS_EN.vtt": "e6bd4d9fbf4053f9419ae7b52b2d6817b624c32001fad3265f0c618f31497c95",
+        "TRANSCRIPT_EN_AR.md": "48f1e37960cb1cc32e0c5aa951d800bd3be3cb9c79a6174f0c58d14ec1a61bf8",
+        "VIDEO_POSTER.png": "df131924c898c4900d29cac9aaf113add79b42cf8ca53c6b3184e4a64e27393f"
+      },
+      "all_resources_match_selected_source": true,
+      "manifest_and_crc_passed": true,
+      "validation": {
+        "office_files": 5,
+        "xml_parts": 82,
+        "csv_files": 5,
+        "html_links": 36,
+        "javascript_syntax_checks": 3,
+        "bilingual_documents": [
+          {
+            "file": "Original/01_Original_Sales_Kit/00_START_HERE.docx",
+            "paired_numbered_templates": null
+          },
+          {
+            "file": "Original/01_Original_Sales_Kit/01_WhatsApp_50_Templates.docx",
+            "paired_numbered_templates": 50
+          },
+          {
+            "file": "Original/01_Original_Sales_Kit/02_Instagram_30_Posts.docx",
+            "paired_numbered_templates": 30
+          },
+          {
+            "file": "Original/01_Original_Sales_Kit/03_AI_Prompts_12.docx",
+            "paired_numbered_templates": 12
+          }
+        ]
+      }
+    },
+    {
+      "kit": "SPRINT",
+      "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-02\\JUST_AI_SPRINT_COMPLETE_EN_AR_v3.zip",
+      "bytes": 1660540,
+      "sha256": "6c0c9f5d2f7ae338a3489f7c46742ac0223145620cbf776273e501ad00734cb4",
+      "files": 13,
+      "resources_replaced": 6,
+      "source_zip": "<LOCAL_HOME>\\Downloads\\JUST_AI_Content_Sprint_EN_AR_v2.zip",
+      "source_sha256": "8c631df9d05b1acfede970224abc08061e78f5412b18f272f331b31e95681ca1",
+      "tutorial_source_zip": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_SPRINT_COMPLETE_v2.zip",
+      "tutorial_source_sha256": "1132a66fb6e17a4319a0c51085779ec55c8975319ee3ed72305a65806121bb86",
+      "retained_assets_sha256": {
+        "HOW_TO.mp4": "c3697042dfa7d3553414b5ae37cfa475b17a8e2cef839e5d3e001d74684ef9ac",
+        "CAPTIONS_EN.vtt": "130348b6f5060786368f43b6dfc66b907436a97c55284e568a5b93b4755bb431",
+        "TRANSCRIPT_EN_AR.md": "1c036fdbde4441e79b763eaa52c7cbee4daad6518b9983fc3b8faac46968c89a",
+        "VIDEO_POSTER.png": "ed82f3540af6286a6230e4f191e011ac2e7d656d6c9664a1e894711c0a264fb8"
+      },
+      "all_resources_match_selected_source": true,
+      "manifest_and_crc_passed": true,
+      "validation": {
+        "office_files": 0,
+        "xml_parts": 0,
+        "csv_files": 0,
+        "html_links": 14,
+        "javascript_syntax_checks": 1,
+        "bilingual_documents": []
+      }
+    }
+  ]
+}

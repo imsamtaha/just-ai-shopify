@@ -1,0 +1,32 @@
+query BotIdentity {
+  shop { id name myshopifyDomain currencyCode }
+  currentAppInstallation { accessScopes { handle } }
+}
+
+query BotOrders($query:String,$after:String) { orders(first:10,after:$after,query:$query,sortKey:CREATED_AT,reverse:true) { nodes { id name updatedAt createdAt note closed cancelledAt test canMarkAsPaid
+  paymentGatewayNames displayFinancialStatus displayFulfillmentStatus
+  totalPriceSet { shopMoney { amount currencyCode } }
+  totalOutstandingSet { shopMoney { amount currencyCode } } } pageInfo { endCursor hasNextPage } } }
+
+query BotOrder($id:ID!) { order(id:$id) { id name updatedAt createdAt note closed cancelledAt test canMarkAsPaid
+  paymentGatewayNames displayFinancialStatus displayFulfillmentStatus
+  totalPriceSet { shopMoney { amount currencyCode } }
+  totalOutstandingSet { shopMoney { amount currencyCode } } lineItems(first:20) { nodes { name quantity } pageInfo { hasNextPage } } } }
+
+query BotProducts($query:String,$after:String) { products(first:10,after:$after,query:$query) { nodes { id title status } pageInfo { endCursor hasNextPage } } }
+
+query BotProduct($id:ID!) { product(id:$id) { id title status descriptionHtml updatedAt variants(first:20) { nodes { id title price } pageInfo { hasNextPage } } } }
+
+query BotVariant($id:ID!) { node(id:$id) { ... on ProductVariant { id title price product { id title updatedAt } } } }
+
+mutation BotProductUpdate($product:ProductUpdateInput!) { productUpdate(product:$product) { product { id } userErrors { field message } } }
+
+mutation BotPrice($productId:ID!,$variants:[ProductVariantsBulkInput!]!) { productVariantsBulkUpdate(productId:$productId,variants:$variants,allowPartialUpdates:false) { productVariants { id price } userErrors { field message } } }
+
+mutation BotOrderNote($input:OrderInput!) { orderUpdate(input:$input) { order { id } userErrors { field message } } }
+
+mutation BotMarkPaid($input:OrderMarkAsPaidInput!) { orderMarkAsPaid(input:$input) { order { id } userErrors { field message } } }
+
+mutation BotArchive($input:OrderCloseInput!) { orderClose(input:$input) { order { id } userErrors { field message } } }
+
+mutation BotReopen($input:OrderOpenInput!) { orderOpen(input:$input) { order { id } userErrors { field message } } }

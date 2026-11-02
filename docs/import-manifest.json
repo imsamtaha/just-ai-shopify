@@ -1,0 +1,1109 @@
+{
+  "importedOn": "2026-11-02",
+  "files": [
+    {
+      "file": "integrations/telegram/.env.example",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 1264,
+      "sha256": "c0c2cf458a5a5c066554378d7fec74286329d99f01e8e5996f90152b6caf9523"
+    },
+    {
+      "file": "integrations/telegram/.gitignore",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 106,
+      "sha256": "c66f2c035894d1d49e165e5a5c7f2dd5c64348ff4c57838cce522ce2d2648cc6"
+    },
+    {
+      "file": "integrations/telegram/activate-shopify-windows.cmd",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 591,
+      "sha256": "ac9bc5968c7f5ae8db176caf27b656b34ab5b5c4e3b6b90b93139c9eb33dce30"
+    },
+    {
+      "file": "integrations/telegram/activate-windows.cmd",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 311,
+      "sha256": "f76d5f03376fc1469fad69cd748fa1d9859d6cb433de3a7e9a16c3f1e4ef033f"
+    },
+    {
+      "file": "integrations/telegram/activate.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 2162,
+      "sha256": "8d1420c8800ec472fccb4a49eb4b25cd325c4d69c86fbd2e896a978aaa6e4e07"
+    },
+    {
+      "file": "integrations/telegram/bot.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 713,
+      "sha256": "39ced57adf13f95687f0bf88483e32635b381952686e76b2efda365bd1d26dc7"
+    },
+    {
+      "file": "integrations/telegram/configure.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 4635,
+      "sha256": "66b3780ad5721afd0772a8c6e1f4f36a70ebf9db2579d23ccc3527698335fa91"
+    },
+    {
+      "file": "integrations/telegram/configure_meta.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 3660,
+      "sha256": "7b5b6dccd3b59af6999a5cfadfbf9d99a485ee8c12cb26d3790d283adebb1195"
+    },
+    {
+      "file": "integrations/telegram/configure_shopify.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 3658,
+      "sha256": "1606c90d2f6b9b8bafc8143de8a4b8601907170ad48cf022ade795f24aeca2ec"
+    },
+    {
+      "file": "integrations/telegram/docs/ATLAS_TELEGRAM.md",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 4736,
+      "sha256": "3151330055d0b3481c05bd7a582a6ed2716e5d62782a132227877bb3f3dfb9a8"
+    },
+    {
+      "file": "integrations/telegram/docs/BOTFATHER.txt",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 753,
+      "sha256": "ea3e75f2fceb7500256b64030dc4455f718f76f5ed42516695f5d7ff720fa75d"
+    },
+    {
+      "file": "integrations/telegram/docs/INSTRUCTIONS.md",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 3916,
+      "sha256": "41c262761738a2ae30dedc562003b26ec810d1a349427cf71bcc54b73615c371"
+    },
+    {
+      "file": "integrations/telegram/docs/META_CHANNELS.md",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 5350,
+      "sha256": "12e65be5a375a788ebe2cb023b9083e08b31d67b4e165632f360238b0e280f28"
+    },
+    {
+      "file": "integrations/telegram/docs/SHOPIFY_TELEGRAM.md",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 10187,
+      "sha256": "8905a7408aa830fb648666971dd077400b50bc98df69a9f1743262fca2e3b44c"
+    },
+    {
+      "file": "integrations/telegram/doctor.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 3553,
+      "sha256": "6538e5349fe00ad8ecf5b04a8c5bdac69f0368a4a429358b16dc51bec98415a6"
+    },
+    {
+      "file": "integrations/telegram/just_ai/atlas.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 12822,
+      "sha256": "6e3e4b08d0942b060880794fcc03446624dc4edae2918edcd60f3a5b56bc8ca6"
+    },
+    {
+      "file": "integrations/telegram/just_ai/catalog.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 4968,
+      "sha256": "2dfbcdc262d8fb173528836024e096ef5a03df7cb9bf60a40b300bf814b45153"
+    },
+    {
+      "file": "integrations/telegram/just_ai/config.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 2506,
+      "sha256": "fe5a4ca1f8edacd110429bc20286683d3745387c471420e0070e970f79d579e4"
+    },
+    {
+      "file": "integrations/telegram/just_ai/handlers.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 19404,
+      "sha256": "09b022a5cf40bf9e6d26031f340e0468de14216674b61c0c9c38cef2fa5e42e5"
+    },
+    {
+      "file": "integrations/telegram/just_ai/meta_channels.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 9596,
+      "sha256": "ee2dd6107ef95f79dc3e4452b8d016a4311b3595dc9c2bec9117bdfc33798b42"
+    },
+    {
+      "file": "integrations/telegram/just_ai/meta_config.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 2867,
+      "sha256": "da272228cd3757c9603979225f8222689c5893f20ede8055f819c755fdf5e689"
+    },
+    {
+      "file": "integrations/telegram/just_ai/provider.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 3226,
+      "sha256": "b45a5491ecb356e23cc542a462b782809d3f1880f19eec4dc261e92a3c97b74b"
+    },
+    {
+      "file": "integrations/telegram/just_ai/runtime.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 4930,
+      "sha256": "e7b47ea12a83d1e6b306d04c1e6211ee2295f6a80bae4f66c912cd39b8e1d1bb"
+    },
+    {
+      "file": "integrations/telegram/just_ai/shopify_api.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 8598,
+      "sha256": "5febc8e9ca470cff0af91a39081669d8bbb8484e9467ecf389aae882d622c9f7"
+    },
+    {
+      "file": "integrations/telegram/just_ai/shopify_commands.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 1839,
+      "sha256": "5506e83af979eb20dce318832fd03ce36966522d218245aaff36b6e21ce9a34a"
+    },
+    {
+      "file": "integrations/telegram/just_ai/shopify_config.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 2985,
+      "sha256": "0e4f528c6bde17089e1c6a1880d4acedfe028ca1c80eaae27e3f5caa4e7b8d34"
+    },
+    {
+      "file": "integrations/telegram/just_ai/shopify_controls.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 28424,
+      "sha256": "6691fe39797e40fc05aec8d42dc64bcf3dcdfb77e20004305a29b683ec63cb55"
+    },
+    {
+      "file": "integrations/telegram/just_ai/store.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 10029,
+      "sha256": "5449d84bdcb973af627c0639ba7b9432a369f0557f159265932a073a4c62afeb"
+    },
+    {
+      "file": "integrations/telegram/just_ai/ui.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 3163,
+      "sha256": "f05287abff139219efbc63b5d70545a3a0c5557abaf9895fa08620540f6b360c"
+    },
+    {
+      "file": "integrations/telegram/just_ai/__init__.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 81,
+      "sha256": "92623187243fc832ecce7d912a7d573e5d478d58b6bf6881a491d37cfdc5fde8"
+    },
+    {
+      "file": "integrations/telegram/meta_doctor.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 2819,
+      "sha256": "a63ff9272f7a7d7874e70c6d2fee22bd26a089474c558ed40563949334c6a44e"
+    },
+    {
+      "file": "integrations/telegram/meta_server.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 6300,
+      "sha256": "20ba988453284eefdac47d1ce9fd945b97cfc81a189605ec884a63d38cbfe2f7"
+    },
+    {
+      "file": "integrations/telegram/README.md",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 11367,
+      "sha256": "5db34ca8d48e1545c1f8a566a84a5374263fd2f2876130e47317e5737d756d4a"
+    },
+    {
+      "file": "integrations/telegram/requirements-dev.txt",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 34,
+      "sha256": "3c3ad6730cf0c0417b77bae38e53c11fa8cd96a34f2f8956998bafc0aaf3ef17"
+    },
+    {
+      "file": "integrations/telegram/requirements.txt",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 79,
+      "sha256": "59029bef75f564dcf50bc6d4a3267301703fbd0bd9b3501d82c20b4fab32267b"
+    },
+    {
+      "file": "integrations/telegram/setup-meta-windows.cmd",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 217,
+      "sha256": "743912a8a35467e86875ea0ad4583e31fd801d877b28517314a31d0b2d00f001"
+    },
+    {
+      "file": "integrations/telegram/setup-termux.sh",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 559,
+      "sha256": "9c4c7980f0f30adcb819f060d113895a882be38fbb36267d5750aef81f408e54"
+    },
+    {
+      "file": "integrations/telegram/setup-windows.ps1",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 520,
+      "sha256": "2a70cddb22715c53efafec587de81c42777f74825a73da212e5c4f20d065bf06"
+    },
+    {
+      "file": "integrations/telegram/shopify_doctor.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 1950,
+      "sha256": "3ccf51237c63133d08866e6ee946d160d9dacb4897793b89f7db0dfa9fab7a99"
+    },
+    {
+      "file": "integrations/telegram/start-meta-windows.cmd",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 214,
+      "sha256": "8328e7bf8f938e3eabf07e37b13bff2344c341f8f25d4ffe07682ab0fb28bced"
+    },
+    {
+      "file": "integrations/telegram/start-termux.sh",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 117,
+      "sha256": "bc43e5a7685a8fef72b09226a9408679f83b1176041becf08e4839b59872573e"
+    },
+    {
+      "file": "integrations/telegram/start-windows.ps1",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 283,
+      "sha256": "4ac7c5ebf35ae4fe5be4a525411058038823e29f92e29765ad9596e23b9e5699"
+    },
+    {
+      "file": "integrations/telegram/tests/test_async_smoke.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 10319,
+      "sha256": "238090b0e84dadabadc4d212506b3c760f9c1452e107df90ebda31cc3bba39ed"
+    },
+    {
+      "file": "integrations/telegram/tests/test_bot.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 21168,
+      "sha256": "8e6a38dbff9d1c0cee568393f576f5d2f36a1c39aca3120a59067cb4c151b83c"
+    },
+    {
+      "file": "integrations/telegram/tests/test_meta.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 8623,
+      "sha256": "b3e6619f6405f5c45e3b786c280340969df56727d9156966ebeec11404bbdf3e"
+    },
+    {
+      "file": "integrations/telegram/tests/test_shopify.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 19915,
+      "sha256": "65e7d003aca21808ec80896da5d2977a846dead6efe621d68a96a0a7ab396450"
+    },
+    {
+      "file": "integrations/telegram/tools/package_release.py",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 2566,
+      "sha256": "f3f6ee13a32db59bbde6ae21ab4e0cd13b8fcaeebfeabee82e5eeb38524999a2"
+    },
+    {
+      "file": "integrations/telegram/VALIDATION.md",
+      "source": "Existing JUST AI bot source, copied 2026-11-02",
+      "bytes": 10595,
+      "sha256": "8e1aef56b147b6e07129b499e1e179609d088913529bfb04214518d5944d0224"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/CAPTIONS_EN.vtt",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 2471,
+      "sha256": "ebb8064055f176a4c58abb3883d90f159ae1a3841774c2367c93b793f11b10e6"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/HOW_TO.mp4",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1760856,
+      "sha256": "191a19c0178171ef5712e7de8cdeba5032974394c021017ecad9469592a54af2"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/MANIFEST.json",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1653,
+      "sha256": "156e126ea5205754a4490d1176a894635139f7e5801d58cf57df27e236f060c9"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/Original/00_START_HERE.docx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 39789,
+      "sha256": "4b4f2499c3ea139c8b4cfdd995e109a9971f266e16e9ca7f51fe43f2537c66b4"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/Original/00_START_HERE.pdf",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 76100,
+      "sha256": "dcba3d94eeaa47307eaa785b1bf846c49253f2b2a6766f2a6ae9ee11bfad33a9"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/Original/01_WhatsApp_50_Templates.docx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 44098,
+      "sha256": "8a9746b3d45cd8b64f35703ca35ad3a69352031f63f7a14f72289c4cb9891f3e"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/Original/02_Instagram_30_Posts.docx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 43090,
+      "sha256": "1bffedae18901bf01ede2dd5858b425af20cfdbd74bcae4d65956222b8c78616"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/Original/03_AI_Prompts_12.docx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 41560,
+      "sha256": "464b65949d441e9da4b3bc0204726fd81c27900f9870ede4e74fb28b8d5c933f"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/Original/04_Customer_Tracker.xlsx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 9334,
+      "sha256": "358106ed2ab53f96d406172b03441791f8cc6e315eb5e6af19398dc97dba9a3a"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/START_HERE.html",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 9760,
+      "sha256": "a8b97e7f9bde81aa4bf482429fb8014e3f80c81d88a43e7a5be8d055d0a03c5d"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/TRANSCRIPT_EN_AR.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3624,
+      "sha256": "edc3cceca96d9cc5a88e15ab872028128ce35dbeb274869dc41d74c79f4c1b84"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/VERSION_NOTES_EN_AR.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1976,
+      "sha256": "8a7ab3e10c9e2afe1b1f8407c21d35a3b9bdb3bcb6b75105a44f6a5d5ac5af82"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3/VIDEO_POSTER.png",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 43209,
+      "sha256": "237bc0d47694b51adb5c2eeb59ec2e1703cef0419c8b72df81d1e83fdff798ce"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_BASIC_COMPLETE_EN_AR_v3.zip",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1922553,
+      "sha256": "cf0e4ba30a26b10d89606b2fc3549f9d2723d8811cd745fbb2ef89fcf6676709"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/CAPTIONS_EN.vtt",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 2678,
+      "sha256": "e6bd4d9fbf4053f9419ae7b52b2d6817b624c32001fad3265f0c618f31497c95"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/HOW_TO.mp4",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1952536,
+      "sha256": "2bae49e9e7241223e9b98b426db75cb2cf77b41163695aaa635907492ef12e52"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/MANIFEST.json",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 5751,
+      "sha256": "ded78969b32782febda48e547a409fb9df5ed08be935712393a8c758de43e730"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/00_READ_ME_FIRST.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 6143,
+      "sha256": "74853cc87aaa078f7627bee5a185c7c39f3124b42e73266f187a2b22105ce6ff"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/01_Original_Sales_Kit/00_START_HERE.docx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 39789,
+      "sha256": "4b4f2499c3ea139c8b4cfdd995e109a9971f266e16e9ca7f51fe43f2537c66b4"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/01_Original_Sales_Kit/00_START_HERE.pdf",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 76100,
+      "sha256": "dcba3d94eeaa47307eaa785b1bf846c49253f2b2a6766f2a6ae9ee11bfad33a9"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/01_Original_Sales_Kit/01_WhatsApp_50_Templates.docx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 44098,
+      "sha256": "8a9746b3d45cd8b64f35703ca35ad3a69352031f63f7a14f72289c4cb9891f3e"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/01_Original_Sales_Kit/02_Instagram_30_Posts.docx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 43090,
+      "sha256": "1bffedae18901bf01ede2dd5858b425af20cfdbd74bcae4d65956222b8c78616"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/01_Original_Sales_Kit/03_AI_Prompts_12.docx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 41560,
+      "sha256": "464b65949d441e9da4b3bc0204726fd81c27900f9870ede4e74fb28b8d5c933f"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/01_Original_Sales_Kit/04_Customer_Tracker.xlsx",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 9334,
+      "sha256": "358106ed2ab53f96d406172b03441791f8cc6e315eb5e6af19398dc97dba9a3a"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/02_Notion_Import/00_JUST_AI_HOME.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 5292,
+      "sha256": "7a5c2196e0390f466593aa3e2548d0e3cb57ec98e94e391bb905a690302bea1d"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/02_Notion_Import/01_Workflows.csv",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 5826,
+      "sha256": "c514912b56211f1a2044a63878c4bb21c1026891c73f98b5b2ac53be8b2affb9"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/02_Notion_Import/02_Automations.csv",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3572,
+      "sha256": "f815dd1296dbfa13f1a55a59744c7a64319db4bae94859f8f09048812210db09"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/02_Notion_Import/03_Templates.csv",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 9423,
+      "sha256": "9a581b392dd51f7d7c875e831e4396dc733db6bcde84c6dece5d101cebb44f40"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/02_Notion_Import/04_Tools_and_Stack.csv",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3009,
+      "sha256": "2f6825863881d6ff852139e34576dd81f3be929d370a17184d899cd631ea4494"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/02_Notion_Import/05_Ideas_and_Backlog.csv",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 2129,
+      "sha256": "6bfdeaf74743faf3ad98ade2cad25f1698ed1b163d870ed36ce365b69d004626"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/03_Workflow_Playbooks/01_new_whatsapp_inquiry.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3222,
+      "sha256": "4bda4a24c8443466ac94778b84d7ca1f99aaa5d9829e987423f84e14c7a5f428"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/03_Workflow_Playbooks/02_product_question_to_quote.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3315,
+      "sha256": "c95659430881481192c6979004ab385aee5855094f4790a6f75fbbc464599f73"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/03_Workflow_Playbooks/03_opt_in_follow_up.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3399,
+      "sha256": "6ef76340db9ff71af5d90a8af3a59a741f8ba3134b8e1819d49a5afb09a45d11"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/03_Workflow_Playbooks/04_weekly_instagram_calendar.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3406,
+      "sha256": "164286335d735fecfadc1c3870ab60d5a31189488a13221525961923e42604da"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/03_Workflow_Playbooks/05_order_handoff.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3184,
+      "sha256": "fe842bad928b8437d9054a50797327de83cdd50f9246268e2fa5b896c3ebf3c8"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/03_Workflow_Playbooks/06_post_delivery_feedback.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3033,
+      "sha256": "aa8b9cbc55eba7a70d6b7d4e5cf40bb346be520ce9b176fba452fda3321de6af"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/03_Workflow_Playbooks/07_low_stock_check.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3199,
+      "sha256": "aeb8934dc3d9501de527a8c404b0f12b0a4508224246e70d9c1a6c7a2f0e196e"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/03_Workflow_Playbooks/08_weekly_sales_recap.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3170,
+      "sha256": "1a32b91d7dbc93dedf57640cd45755c4074978401cd4e33c71f5c04299cc35d4"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/04_Automation_Starter_Code/00_CODE_SETUP.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 4194,
+      "sha256": "41ffcaa720cd714cfcd8c73fcebc1eeeb2c2ec1cf6a0316674965896a87ea0b8"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/04_Automation_Starter_Code/01_normalize_lead.js",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1305,
+      "sha256": "aa646158842b1b36beb37b5a4c6c936d79e4c8524599f8612982185a5ec31296"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/04_Automation_Starter_Code/02_dedupe_order_references.js",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 857,
+      "sha256": "7535d244de3ca9106c55382503dd1a081cd11131d5c735158a1ef687a547b64f"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/04_Automation_Starter_Code/03_create_whatsapp_draft_url.js",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1132,
+      "sha256": "c48d5b187697013853787e9c87d8e2aa8c4a36b7319affdc6ddcf10dd9b492f0"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/05_AI_SOP_Library/01_Customer_Message_SOP.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1824,
+      "sha256": "f6ebb2f7549215ec626f60164a95d17b7fae0870a9281af3228fee593332ae18"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/05_AI_SOP_Library/02_Content_Approval_SOP.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1720,
+      "sha256": "c778f91a16f070ab3aef2336b078027970be9562100ee56d44a7752b3f0d8f53"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/05_AI_SOP_Library/03_Order_Handling_SOP.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1448,
+      "sha256": "2a9442bfb6da839f4f3f3e9846bb3211ba53d2a86de4ea71c3a02257c920dc2f"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/05_AI_SOP_Library/04_AI_Review_Checklist.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1265,
+      "sha256": "39ef0d042cf7aebd04275ef545ac678fa379b17af042a8581c781cab5a49e28e"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/Original/05_AI_SOP_Library/05_Weekly_Operations_Review.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1918,
+      "sha256": "40e07b7776a23b5f187c1b152abea201c16a2f12cac208161da2dd51505fdd2b"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/START_HERE.html",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 13402,
+      "sha256": "8d93f7ca88689652bdf70227cc8d5701c9f3b0aa5a077ccce986365f0db6412e"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/TRANSCRIPT_EN_AR.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3952,
+      "sha256": "48f1e37960cb1cc32e0c5aa951d800bd3be3cb9c79a6174f0c58d14ec1a61bf8"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/VERSION_NOTES_EN_AR.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1974,
+      "sha256": "6d513583f7fa3d1ba538db5fdcf4cbcb276cc8342216036d95596101ad5c4f17"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3/VIDEO_POSTER.png",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 38446,
+      "sha256": "df131924c898c4900d29cac9aaf113add79b42cf8ca53c6b3184e4a64e27393f"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_PRO_COMPLETE_EN_AR_v3.zip",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 2141814,
+      "sha256": "a29bb61d668a272229150db9884d6ed4fdc2f1d10a801a6b703e17bca492f180"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/CAPTIONS_EN.vtt",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 2585,
+      "sha256": "130348b6f5060786368f43b6dfc66b907436a97c55284e568a5b93b4755bb431"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/HOW_TO.mp4",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1697770,
+      "sha256": "c3697042dfa7d3553414b5ae37cfa475b17a8e2cef839e5d3e001d74684ef9ac"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/MANIFEST.json",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1629,
+      "sha256": "131b822a7b803f3785f32715d45f2358d57ae1f12752e04c5c865b42ed2a82a6"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/Original/00-START-HERE.html",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 11126,
+      "sha256": "b6421fafafad02752b83b9dab4b89167d22e7233bacf56108287fcc36d57aa1a"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/Original/01-PLANNER.html",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 19594,
+      "sha256": "1ef0703dba00ca12ec8a9cc716749235704c6f1b17e0cd653774d41456a79518"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/Original/02-CAPTIONS-EN-AR.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 8183,
+      "sha256": "254795b725ea474bf5ecabb95c545e6764c42190d271ca9ad755f72ead2c67db"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/Original/03-VIDEO-AND-AI-PROMPTS.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 13373,
+      "sha256": "2130c25778a428d9d724bb8418441d5b467b423cb75d59db3ea722af52362a74"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/Original/04-WORKED-EXAMPLE.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 8788,
+      "sha256": "411ace375f3e3b6186b56476fb31bef3e4397a3ab05038b833bb4bca587fe250"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/Original/05-LICENSE.txt",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 2310,
+      "sha256": "b2af7027ab401b491bf2756838d1ea9558132ad4ec5cf3b6412fdab79cf7d01c"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/START_HERE.html",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 9822,
+      "sha256": "73d3902000a9d453b34571af5f299c3cdd23bcc9868ac7a33a5176cd774f8312"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/TRANSCRIPT_EN_AR.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3848,
+      "sha256": "1c036fdbde4441e79b763eaa52c7cbee4daad6518b9983fc3b8faac46968c89a"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/VERSION_NOTES_EN_AR.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1976,
+      "sha256": "08040c32c30eb0b9a43eb3f721ef88fb1a1c2735ddc74885c29a35a8bd307581"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3/VIDEO_POSTER.png",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 35488,
+      "sha256": "ed82f3540af6286a6230e4f191e011ac2e7d656d6c9664a1e894711c0a264fb8"
+    },
+    {
+      "file": "products/packages/2026-11-02/JUST_AI_SPRINT_COMPLETE_EN_AR_v3.zip",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 1660540,
+      "sha256": "6c0c9f5d2f7ae338a3489f7c46742ac0223145620cbf776273e501ad00734cb4"
+    },
+    {
+      "file": "products/packages/2026-11-02/PACKAGE_VALIDATION.json",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 5792,
+      "sha256": "06b4e7b6f801055aebec6c26c8f6fc5fca4ee55289c4e5f662f57c6424d6f317"
+    },
+    {
+      "file": "products/packages/2026-11-02/README.md",
+      "source": "Bilingual v3 packages, 2026-11-02",
+      "bytes": 3960,
+      "sha256": "d15b448ebd5030566883efe9253fde46e96a4d7dbf29fd39b1c43258fdfa615f"
+    },
+    {
+      "file": "products/packages/2026-11-01/JUST_AI_BASIC_COMPLETE_v2.zip",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 1886793,
+      "sha256": "7495ab2e92b4b70d8fc2d956562339dfc41629130bebd4bac67443ec8f9337a0"
+    },
+    {
+      "file": "products/packages/2026-11-01/JUST_AI_LAUNCH_COMPLETE_v2_1.zip",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 3497,
+      "sha256": "204a66bf41b841c18563508539cb334e5408d34e3efd0b0e1ab5c1c0166f5711"
+    },
+    {
+      "file": "products/packages/2026-11-01/JUST_AI_LOGO_COMPLETE_v2_1.zip",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 3499,
+      "sha256": "f62b8f2db76fcf2ea7a7aadf732233fb575bccb17fab9731fad359b1052c3252"
+    },
+    {
+      "file": "products/packages/2026-11-01/JUST_AI_MARKETING_COMPLETE_v2.zip",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 1997632,
+      "sha256": "1d19540ce799e8e801b57403d3cb3d673b22917af302ed8ef0cf544e7bbdba06"
+    },
+    {
+      "file": "products/packages/2026-11-01/JUST_AI_PRO_COMPLETE_v2.zip",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 2087044,
+      "sha256": "b3f9b07f609ed06beb28266e9fdbe67a95a42d32ab2475aab4944fc4b137b4b2"
+    },
+    {
+      "file": "products/packages/2026-11-01/JUST_AI_SOCIAL_COMPLETE_v2_1.zip",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 3411,
+      "sha256": "a2238868594393a8e740a37c9dd035e58bc8f67e5d745edc80418db0656664f1"
+    },
+    {
+      "file": "products/packages/2026-11-01/JUST_AI_SPRINT_COMPLETE_v2.zip",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 1656666,
+      "sha256": "1132a66fb6e17a4319a0c51085779ec55c8975319ee3ed72305a65806121bb86"
+    },
+    {
+      "file": "products/packages/2026-11-01/JUST_AI_WEBSITE_COMPLETE_v2_1.zip",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 3501,
+      "sha256": "71c7aa7df7c466eab28be3ca941a3e519d1777f7bfada47e2a029077ba2fd3db"
+    },
+    {
+      "file": "products/packages/2026-11-01/PACKAGE-VALIDATION.json",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 5611,
+      "sha256": "a3e616cbc396d0e48a970423ba2dea0f409426a2d612fca7cd24bda50c1f40d3"
+    },
+    {
+      "file": "products/packages/2026-11-01/READ-ME-FIRST.md",
+      "source": "v2 toolkits and v2_1 service onboarding, 2026-11-01",
+      "bytes": 4047,
+      "sha256": "f3113818d3a343e2e0282dac2f6c9c0d9680456498880bb69775f1f93973e778"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_BASIC_COMPLETE_v2.zip",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 1886793,
+      "sha256": "7495ab2e92b4b70d8fc2d956562339dfc41629130bebd4bac67443ec8f9337a0"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_BASIC_HOW_TO.mp4",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 1760856,
+      "sha256": "191a19c0178171ef5712e7de8cdeba5032974394c021017ecad9469592a54af2"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_LAUNCH_COMPLETE_v2.zip",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 3503,
+      "sha256": "5ef0bb2f46cbfcc06310be6753b6c03f9597784e2e316926e8b208dee82ce0a0"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_LOGO_COMPLETE_v2.zip",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 3499,
+      "sha256": "00e5b90b132165b4afde615a684aff8d009df49563f17f89db99070be4a2a0f2"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_MARKETING_COMPLETE_v2.zip",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 1997632,
+      "sha256": "1d19540ce799e8e801b57403d3cb3d673b22917af302ed8ef0cf544e7bbdba06"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_MARKETING_HOW_TO.mp4",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 2057044,
+      "sha256": "b96c0564fd5a44ddf57cc0fe67087a983aa20b932cdec245cf3eb5a9d90c2865"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_PRO_COMPLETE_v2.zip",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 2087044,
+      "sha256": "b3f9b07f609ed06beb28266e9fdbe67a95a42d32ab2475aab4944fc4b137b4b2"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_PRO_HOW_TO.mp4",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 1952536,
+      "sha256": "2bae49e9e7241223e9b98b426db75cb2cf77b41163695aaa635907492ef12e52"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_SOCIAL_COMPLETE_v2.zip",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 3408,
+      "sha256": "0f0176f1b572acc6752c4175c41a3238ad37b4b25889d19b30eb0202ce6cc03c"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_SPRINT_COMPLETE_v2.zip",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 1656666,
+      "sha256": "1132a66fb6e17a4319a0c51085779ec55c8975319ee3ed72305a65806121bb86"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_SPRINT_HOW_TO.mp4",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 1697770,
+      "sha256": "c3697042dfa7d3553414b5ae37cfa475b17a8e2cef839e5d3e001d74684ef9ac"
+    },
+    {
+      "file": "archive/packages-2026-10-29/JUST_AI_WEBSITE_COMPLETE_v2.zip",
+      "source": "Original v2 packages and tutorials, 2026-10-29",
+      "bytes": 3505,
+      "sha256": "757c835b5673bf2b53680ee662223aae61d74443402250a71be336ba4d05cb8c"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-BASIC-description-EN-AR.html",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 3732,
+      "sha256": "0b10407f842fd1e5af40c5080c9ae36f57f48908f781506c43dcdbb5844f7704"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-BASIC-description-EN-AR.txt",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 3321,
+      "sha256": "e0e2012dfebe3ee1820093f5fff9cf8394d7eac3e8886aa860abc775b1dd1bcb"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-BASIC-product-sample.jpg",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 438335,
+      "sha256": "c8df60bc607287185802f16355e26ef869a264259b2f5a9e82328e261dc5be47"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-BASIC-product-sample.png",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 1312819,
+      "sha256": "9db138e57099b28bfa7974936fd8e17d091d91f6f36b0558095fa86aa0f47580"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-BASIC-template-showcase.mp4",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 1245473,
+      "sha256": "b8b89a0d79ee9cf2cdc9103a15232addc97f1b3edb993eaa8028bcc3b4eed365"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-BASIC-video-poster.png",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 365710,
+      "sha256": "de270965f5a7443fffc6e36fa639c7173035c972e9495db2b0cc33b84394e266"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-CONTENT-SPRINT-description-EN-AR.html",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 4765,
+      "sha256": "05e95d44b3c7b271cede1437d22368e022cdc4ccb7ffa5f5077a26ba89754691"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-CONTENT-SPRINT-description-EN-AR.txt",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 4346,
+      "sha256": "a58934b42e49e2c9ca985bc2d0df62f59839d4fbceb3fecdefceea72ac285f73"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-CONTENT-SPRINT-product-overview.mp4",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 1541857,
+      "sha256": "cf1e1a0c602f721f81153b29b350f5e21d00a2ae79946549aad1cf28c09d3a98"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-CONTENT-SPRINT-product-sample.jpg",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 484785,
+      "sha256": "7fbe17f99555a3d08db30712763267433aa6b512d0b4652e63eec3b88a4b95ad"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-CONTENT-SPRINT-product-sample.png",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 1399059,
+      "sha256": "0eeb0638b7efc766b12271fb00e7aa7113673e86b4d254ef548f98901d435b87"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-CONTENT-SPRINT-video-poster.png",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 1213168,
+      "sha256": "3483b2c584061db0e2cf998defde55048fd3f15979f9f283e00d393104680e0e"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-PRO-description-EN-AR.html",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 3749,
+      "sha256": "84b567bac6f0214c92294d13d47673da80193a4536cf57979dfbe81b7a284c9a"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-PRO-description-EN-AR.txt",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 3330,
+      "sha256": "b3874fa20f0630dce9ed69d65d9bbb897e70ab39a3ead927db0ae7ad94f49c7e"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-PRO-product-overview.mp4",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 1464154,
+      "sha256": "029aad368c190dbf12c440d6cf22486243eca0b7975b90eead9db495873e90f2"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-PRO-product-sample.jpg",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 436881,
+      "sha256": "3dbe418e36aba30f656ec0c417dce32f325c512ba696550e143c845ada677338"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-PRO-product-sample.png",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 1281461,
+      "sha256": "c5e571b2ec18c89c3ae1c99d36f80cc51c7c35c22c94ac82ace9d9b4fc4bd990"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-PRO-video-poster.png",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 1138208,
+      "sha256": "776677e30129351a1998f097dc6864ecb2d3c109e133fcf7d4c7cdab7cbc74d0"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-product-collection-no-prices.jpg",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 848779,
+      "sha256": "e96f95ac8b93d1f756beb71a72abc1a18edc0a9395e85f563535bb667b903e96"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-product-collection-no-prices.png",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 2716867,
+      "sha256": "5515b2f15ff70ce1c53b44256bbb50282463f8bce97f5a9ce2b07f3cddd88756"
+    },
+    {
+      "file": "products/media-and-listings/JUST-AI-three-kit-samples.jpg",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 286543,
+      "sha256": "96cacca8e771a1e87ce92aee526b19afd0b9eae690f80036048dbad6ea664ba2"
+    },
+    {
+      "file": "products/media-and-listings/marketing-v2-description.html",
+      "source": "Existing product media and bilingual listings",
+      "bytes": 13960,
+      "sha256": "0ff80b40f6b575bccc188cfa0a65ed22d8a170d2ddedecf429acbf4bae83a702"
+    },
+    {
+      "file": "docs/history/Shopify-sales-readiness-2026-11-01.md",
+      "source": "Historical operations notes; not current readiness proof",
+      "bytes": 3282,
+      "sha256": "ac28363966ac15920fe16737f3c219e85352af32e41a90bbecafd6c7221ee968"
+    },
+    {
+      "file": "docs/history/Telegram-Shopify-command-guide-EN-AR.md",
+      "source": "Historical operations notes; not current readiness proof",
+      "bytes": 10671,
+      "sha256": "15b2617dc27a449087a8fe61b90b6a1fecd4ef596fec3c930bc1819d8e232be6"
+    },
+    {
+      "file": "docs/history/Telegram-Shopify-VALIDATION.md",
+      "source": "Historical operations notes; not current readiness proof",
+      "bytes": 3725,
+      "sha256": "4f66a65762f91661bb1a0a99db9cf289846c9f19537793ae7fedf6a30de668f9"
+    },
+    {
+      "file": "docs/history/Whish-payment-instructions-EN-AR.txt",
+      "source": "Historical operations notes; not current readiness proof",
+      "bytes": 4016,
+      "sha256": "63fd7486ac9977665d8c466b2303b5928042af4e4aa0ff3c0aca09894ee26f7c"
+    },
+    {
+      "file": "docs/history/delivery-status.md",
+      "source": "Historical operations notes; not current readiness proof",
+      "bytes": 3370,
+      "sha256": "3c5294e31aba967f228983c0a2afe996794d94a74f5987a531a78cb9df257a9e"
+    },
+    {
+      "file": "catalog/history/shopify-10-percent-discount-2026-11-02.json",
+      "source": "Dated catalog/price snapshots, 2026-11-02",
+      "bytes": 3806,
+      "sha256": "88a2d39bebda33f3f17dd23856a03bfdd1438bcf869941e9072559b34bf680eb"
+    },
+    {
+      "file": "catalog/history/shopify-photo-count-pricing-2026-11-02-before.json",
+      "source": "Dated catalog/price snapshots, 2026-11-02",
+      "bytes": 144175,
+      "sha256": "7d748c5581c58568992762c8bc3521ad06c6c835edd1d1eaa272df8ccf923cfe"
+    },
+    {
+      "file": "catalog/history/shopify-photo-count-pricing-2026-11-02-verified.csv",
+      "source": "Dated catalog/price snapshots, 2026-11-02",
+      "bytes": 871,
+      "sha256": "796ccaff84022d815879353e0c3eff9fcf50e699ee99420312247679a9cba407"
+    },
+    {
+      "file": "catalog/history/2026-10-29/kit-content.json",
+      "source": "Catalog preparation, 2026-10-29",
+      "bytes": 19234,
+      "sha256": "b963289ffda2d0069dcfdb3518dc1d99a040ea5922a9bbe12c57952a8a2e46c1"
+    },
+    {
+      "file": "catalog/history/2026-10-29/product-descriptions.json",
+      "source": "Catalog preparation, 2026-10-29",
+      "bytes": 50272,
+      "sha256": "9df493f5785c217f7d6f05406eaa3b60415de4bd7b87bf0f69add3466adada69"
+    },
+    {
+      "file": "catalog/history/2026-10-29/catalog-before-completion.json",
+      "source": "Catalog preparation, 2026-10-29",
+      "bytes": 38331,
+      "sha256": "787136cd20114cf97842b8facaa877d9697bdaff9373316e60b7d455410f31af"
+    },
+    {
+      "file": "catalog/history/2026-10-29/shopify-product-audit-before.json",
+      "source": "Catalog preparation, 2026-10-29",
+      "bytes": 48303,
+      "sha256": "f857bd5b7d509fc4d4742a0dcf6be7f4dd6f5c6191e47d56866f1ceb87128d59"
+    },
+    {
+      "file": "archive/build-tools/2026-10-29/build_kits.py",
+      "source": "Historical build scripts; adapt paths before use",
+      "bytes": 32240,
+      "sha256": "b51dfff6ca5b59be418fa4a61f0013bc885938cf28d23146842d7cb9418db35a"
+    },
+    {
+      "file": "archive/build-tools/2026-10-29/render_videos.py",
+      "source": "Historical build scripts; adapt paths before use",
+      "bytes": 3282,
+      "sha256": "2d09789e59c1f29137ce286e813d09eaee7a6dc3ef5820772402b23e590690f4"
+    },
+    {
+      "file": "archive/build-tools/2026-10-29/render_voice.ps1",
+      "source": "Historical build scripts; adapt paths before use",
+      "bytes": 589,
+      "sha256": "9e9527b3c83d25ee213af3fb6321db85593ba6619bb337edeaacecd4b2d4d852"
+    },
+    {
+      "file": "archive/build-tools/2026-10-29/validate_packages.py",
+      "source": "Historical build scripts; adapt paths before use",
+      "bytes": 1303,
+      "sha256": "25a82de65ff01eba65e5ec8a4662d5689b9ad605fd8cc75285c0fb64cbc80027"
+    },
+    {
+      "file": "archive/build-tools/2026-10-25/build-bilingual-packages.py",
+      "source": "Historical build/operation scripts; do not execute without review",
+      "bytes": 13099,
+      "sha256": "adc11f8f59fe5d91de81b7b4d0f1ed29f49c9f6a1ce70ad9bdbc0b90cddf8d93"
+    },
+    {
+      "file": "archive/build-tools/2026-10-25/prepare-sale-packages.py",
+      "source": "Historical build/operation scripts; do not execute without review",
+      "bytes": 3400,
+      "sha256": "87cbe4853fbd5443280c381f93b5d7f190dd1408085198bb2542105876f24b4a"
+    },
+    {
+      "file": "archive/build-tools/2026-10-25/render-kit-packages.cjs",
+      "source": "Historical build/operation scripts; do not execute without review",
+      "bytes": 5627,
+      "sha256": "8fcbe8455879ffde2f067fb9254fd9a0b65580a6a62381a77f520b88338b2438"
+    },
+    {
+      "file": "archive/build-tools/2026-10-25/render-media.cjs",
+      "source": "Historical build/operation scripts; do not execute without review",
+      "bytes": 9871,
+      "sha256": "861fa1f5d1cb6279d72d52631e8fa88620cc8b6d47b8f2c28ebe705ce228fd2a"
+    },
+    {
+      "file": "archive/build-tools/2026-10-25/render-overview-videos.cjs",
+      "source": "Historical build/operation scripts; do not execute without review",
+      "bytes": 12592,
+      "sha256": "8d47b0493e27b1052c3a28d5eaec314a578a1975f67b003a29ded009c40966ce"
+    },
+    {
+      "file": "archive/build-tools/2026-10-25/encode-basic.py",
+      "source": "Historical build/operation scripts; do not execute without review",
+      "bytes": 1350,
+      "sha256": "92dffe93c023332fa22190b242582a991bdc40d936e4c787259f44aa37baa197"
+    },
+    {
+      "file": "archive/build-tools/2026-10-25/encode-overviews.py",
+      "source": "Historical build/operation scripts; do not execute without review",
+      "bytes": 1459,
+      "sha256": "752c0541fe767297df5f0247e7b099f8af05155238ee5646002bdec65cffd933"
+    },
+    {
+      "file": "archive/build-tools/2026-10-25/telegram-shopify-operations.graphql",
+      "source": "Historical build/operation scripts; do not execute without review",
+      "bytes": 2271,
+      "sha256": "835c5c2a87dca9a3201b9db371a72eaa3ff16dd1ea99e24dc8c9cf2ad1841566"
+    }
+  ]
+}

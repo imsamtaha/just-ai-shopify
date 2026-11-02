@@ -1,0 +1,136 @@
+{
+  "store": "just-ai-store.myshopify.com",
+  "discountPercent": 10,
+  "before": [
+    {
+      "id": "gid://shopify/ProductVariant/67729998610708",
+      "price": "4.00",
+      "compareAtPrice": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67730104353044",
+      "price": "5.00",
+      "compareAtPrice": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67748257038612",
+      "price": "4.00",
+      "compareAtPrice": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67748257136916",
+      "price": "1.00",
+      "compareAtPrice": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67748257235220",
+      "price": "1.00",
+      "compareAtPrice": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67748257530132",
+      "price": "1.00",
+      "compareAtPrice": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67748257693972",
+      "price": "1.00",
+      "compareAtPrice": null
+    },
+    {
+      "id": "gid://shopify/ProductVariant/67750008815892",
+      "price": "2.00",
+      "compareAtPrice": null
+    }
+  ],
+  "updates": [
+    {
+      "id": "gid://shopify/Product/15428288446740",
+      "title": "JUST AI Sales Kit BASIC | حزمة مبيعات JUST AI الأساسية",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67729998610708",
+          "compareAtPrice": "4.00",
+          "price": "3.60"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15428292804884",
+      "title": "JUST AI AI Marketing Toolkit | حزمة التسويق بالذكاء الاصطناعي",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67730104353044",
+          "compareAtPrice": "5.00",
+          "price": "4.50"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15431893352724",
+      "title": "JUST AI Sales Kit PRO | حزمة مبيعات JUST AI الاحترافية",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67748257038612",
+          "compareAtPrice": "4.00",
+          "price": "3.60"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15431893418260",
+      "title": "JUST AI Business Launch Pack | باقة إطلاق مشروعك",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67748257136916",
+          "compareAtPrice": "1.00",
+          "price": "0.90"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15431893451028",
+      "title": "JUST AI Logo & Brand Identity | تصميم شعار وهوية بصرية",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67748257235220",
+          "compareAtPrice": "1.00",
+          "price": "0.90"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15431893549332",
+      "title": "JUST AI One-Page Website | تصميم موقع إلكتروني من صفحة واحدة",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67748257530132",
+          "compareAtPrice": "1.00",
+          "price": "0.90"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15431893582100",
+      "title": "JUST AI Social Media Design Pack | باقة تصاميم التواصل الاجتماعي",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67748257693972",
+          "compareAtPrice": "1.00",
+          "price": "0.90"
+        }
+      ]
+    },
+    {
+      "id": "gid://shopify/Product/15432147599636",
+      "title": "JUST AI 7-Day Content Sprint Kit | حزمة محتوى لمدة 7 أيام — English + العربية",
+      "variants": [
+        {
+          "id": "gid://shopify/ProductVariant/67750008815892",
+          "compareAtPrice": "2.00",
+          "price": "1.80"
+        }
+      ]
+    }
+  ]
+}

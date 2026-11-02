@@ -1,0 +1,186 @@
+[
+  {
+    "file": "JUST_AI_BASIC_COMPLETE_v2.zip",
+    "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_BASIC_COMPLETE_v2.zip",
+    "bytes": 1886793,
+    "files": 12,
+    "type": "digital toolkit",
+    "changes": [],
+    "sha256": "7495ab2e92b4b70d8fc2d956562339dfc41629130bebd4bac67443ec8f9337a0",
+    "zip_crc": "pass",
+    "manifest": "pass",
+    "relative_links": "pass",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "147.136230"
+      }
+    }
+  },
+  {
+    "file": "JUST_AI_LAUNCH_COMPLETE_v2_1.zip",
+    "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_LAUNCH_COMPLETE_v2_1.zip",
+    "bytes": 3497,
+    "files": 4,
+    "type": "service onboarding only",
+    "changes": [
+      "Removed copied service price; current storefront price applies"
+    ],
+    "sha256": "204a66bf41b841c18563508539cb334e5408d34e3efd0b0e1ab5c1c0166f5711",
+    "zip_crc": "pass",
+    "manifest": "pass",
+    "relative_links": "pass",
+    "media": null
+  },
+  {
+    "file": "JUST_AI_LOGO_COMPLETE_v2_1.zip",
+    "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_LOGO_COMPLETE_v2_1.zip",
+    "bytes": 3499,
+    "files": 4,
+    "type": "service onboarding only",
+    "changes": [
+      "Removed copied service price; current storefront price applies"
+    ],
+    "sha256": "f62b8f2db76fcf2ea7a7aadf732233fb575bccb17fab9731fad359b1052c3252",
+    "zip_crc": "pass",
+    "manifest": "pass",
+    "relative_links": "pass",
+    "media": null
+  },
+  {
+    "file": "JUST_AI_MARKETING_COMPLETE_v2.zip",
+    "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_MARKETING_COMPLETE_v2.zip",
+    "bytes": 1997632,
+    "files": 13,
+    "type": "digital toolkit",
+    "changes": [],
+    "sha256": "1d19540ce799e8e801b57403d3cb3d673b22917af302ed8ef0cf544e7bbdba06",
+    "zip_crc": "pass",
+    "manifest": "pass",
+    "relative_links": "pass",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "167.456299"
+      }
+    }
+  },
+  {
+    "file": "JUST_AI_PRO_COMPLETE_v2.zip",
+    "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_PRO_COMPLETE_v2.zip",
+    "bytes": 2087044,
+    "files": 36,
+    "type": "digital toolkit",
+    "changes": [],
+    "sha256": "b3f9b07f609ed06beb28266e9fdbe67a95a42d32ab2475aab4944fc4b137b4b2",
+    "zip_crc": "pass",
+    "manifest": "pass",
+    "relative_links": "pass",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "162.201542"
+      }
+    }
+  },
+  {
+    "file": "JUST_AI_SOCIAL_COMPLETE_v2_1.zip",
+    "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_SOCIAL_COMPLETE_v2_1.zip",
+    "bytes": 3411,
+    "files": 4,
+    "type": "service onboarding only",
+    "changes": [
+      "Removed copied service price; current storefront price applies"
+    ],
+    "sha256": "a2238868594393a8e740a37c9dd035e58bc8f67e5d745edc80418db0656664f1",
+    "zip_crc": "pass",
+    "manifest": "pass",
+    "relative_links": "pass",
+    "media": null
+  },
+  {
+    "file": "JUST_AI_SPRINT_COMPLETE_v2.zip",
+    "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_SPRINT_COMPLETE_v2.zip",
+    "bytes": 1656666,
+    "files": 12,
+    "type": "digital toolkit",
+    "changes": [],
+    "sha256": "1132a66fb6e17a4319a0c51085779ec55c8975319ee3ed72305a65806121bb86",
+    "zip_crc": "pass",
+    "manifest": "pass",
+    "relative_links": "pass",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "140.757506"
+      }
+    }
+  },
+  {
+    "file": "JUST_AI_WEBSITE_COMPLETE_v2_1.zip",
+    "path": "<LOCAL_HOME>\\Documents\\Codex\\2026-10-25\\new-chat-2\\outputs\\sale-packages-2026-11-01\\JUST_AI_WEBSITE_COMPLETE_v2_1.zip",
+    "bytes": 3501,
+    "files": 4,
+    "type": "service onboarding only",
+    "changes": [
+      "Removed copied service price; current storefront price applies"
+    ],
+    "sha256": "71c7aa7df7c466eab28be3ca941a3e519d1777f7bfada47e2a029077ba2fd3db",
+    "zip_crc": "pass",
+    "manifest": "pass",
+    "relative_links": "pass",
+    "media": null
+  }
+]

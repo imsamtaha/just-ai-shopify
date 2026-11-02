@@ -1,0 +1,214 @@
+{
+  "BASIC": {
+    "name": "Sales Kit BASIC",
+    "ar": "حزمة المبيعات الأساسية",
+    "id": "15428288446740",
+    "price": 24,
+    "source": "JUST_AI_Sales_Kit_CUSTOMER_v1",
+    "goal": "Customize one customer reply and record the next step.",
+    "argoal": "خصّص رداً واحداً للعميل وسجّل الخطوة التالية.",
+    "steps": [
+      [
+        "Extract and make a working copy",
+        "Download the complete v2 ZIP and extract it. Open the Original folder. Keep one untouched copy, then duplicate the files you will edit. Use Word or a compatible editor for DOCX and Excel or a compatible spreadsheet app for XLSX.",
+        "حمّل ملف v2 وفك الضغط. افتح مجلد Original واحتفظ بنسخة أصلية. انسخ الملفات قبل تعديلها واستخدم محرراً يدعم Word وExcel.",
+        "Original/01_WhatsApp_50_Templates.docx",
+        "Original/04_Customer_Tracker.xlsx"
+      ],
+      [
+        "Choose the right reply",
+        "Open 01_WhatsApp_50_Templates.docx and choose template 06 under price and availability. Replace the product, price, colour and sizes with facts you have checked. If a fact is unknown, ask for clarification instead of filling it with an AI guess.",
+        "افتح ملف رسائل واتساب واختر القالب 06 للسعر والتوفر. استبدل اسم القطعة والسعر واللون والمقاسات بمعلومات مؤكدة. لا تخمّن معلومات غير معروفة.",
+        "Template 06: product + price + colour + sizes",
+        "DEMO: linen shirt | USD 25 | blue | M and L"
+      ],
+      [
+        "Review a complete example",
+        "For the fictional Cedar Boutique, the reply becomes: The linen shirt is 25 US dollars and is available in blue, sizes medium and large. Would you like the size measurements? This example is a draft. Verify stock, delivery fees and store policy before sending your own version.",
+        "مثال خيالي: سعر قميص الكتان 25 دولار، ومتوفر بالأزرق بمقاسي M وL. بتحب نبعتلك القياسات؟ راجع المخزون ورسوم التوصيل وسياسة المتجر قبل الإرسال.",
+        "Fictional example: Cedar Boutique",
+        "Check facts > personalize > approve > send"
+      ],
+      [
+        "Log the inquiry",
+        "Open 04_Customer_Tracker.xlsx. In Leads, replace the demo rows with your own permitted data. Enter an ID, date, channel, item of interest, status and next follow-up date. Leave optional contact information blank unless needed. Use Orders for confirmed orders; never count an inquiry as a sale.",
+        "افتح جدول العملاء. استبدل الصفوف التجريبية ببيانات مسموح لك استخدامها. سجّل الرقم والتاريخ والقناة والمنتج والحالة وموعد المتابعة. الاستفسار ليس عملية بيع.",
+        "Leads: ID | Date | Channel | Status | Next follow-up",
+        "Orders: record only confirmed orders"
+      ],
+      [
+        "Adapt content and AI prompts",
+        "Choose one idea from 02_Instagram_30_Posts.docx. Open 03_AI_Prompts_12.docx if you want help drafting. Give the AI only approved product facts and anonymous context. Ask it to flag missing information. Review every claim and replace every placeholder before use.",
+        "اختر فكرة من ملف إنستغرام وتوجيهاً من ملف الذكاء الاصطناعي عند الحاجة. قدّم حقائق معتمدة دون بيانات شخصية. راجع الادعاءات واحذف كل الحقول غير المكتملة.",
+        "One post idea + verified product facts",
+        "AI drafts; you approve"
+      ],
+      [
+        "Finish and back up",
+        "Save your edited documents and workbook in a dated folder. Check that prices and totals match your current offer. Follow up only when appropriate and with required consent. The original messaging examples are Arabic; this English tutorial does not translate all templates. For help, use the support address in the guide.",
+        "احفظ الملفات باسم مؤرخ وراجع الأسعار والمجاميع. تابع العملاء بالموافقة المناسبة. أمثلة الرسائل الأصلية بالعربية؛ الشرح الإنجليزي لا يعني ترجمة كل القوالب.",
+        "Save a dated working copy",
+        "Success: one checked reply + one accurate tracker row"
+      ]
+    ]
+  },
+  "PRO": {
+    "name": "Sales Kit PRO",
+    "ar": "حزمة المبيعات الاحترافية",
+    "id": "15431893352724",
+    "price": 59,
+    "source": "JUST_AI_Sales_Kit_PRO_CUSTOMER_v1",
+    "goal": "Turn an inquiry into a repeatable, reviewed workflow.",
+    "argoal": "حوّل الاستفسار إلى خطوات عمل واضحة وقابلة للمراجعة.",
+    "steps": [
+      [
+        "Start with the folder map",
+        "Extract the complete v2 ZIP. Open Original, then 00_READ_ME_FIRST.md. The original package contains the complete BASIC kit, Notion import files, eight workflow playbooks, three optional JavaScript utilities, and five operating procedure documents. Start with one workflow, not every file at once.",
+        "فك ضغط v2 وافتح Original ثم ملف البداية. تتضمن الحزمة BASIC وملفات Notion وثمانية أدلة سير عمل وثلاث أدوات برمجية اختيارية وخمسة مستندات إجراءات. ابدأ بعملية واحدة.",
+        "Original/00_READ_ME_FIRST.md",
+        "Pick: New WhatsApp inquiry"
+      ],
+      [
+        "Set up the workspace",
+        "Open 02_Notion_Import. The Markdown home page and CSV databases can be imported into your own Notion workspace using its import controls. Import each CSV as a separate database and check the headers. You can also edit the CSV files in a spreadsheet without using Notion.",
+        "افتح مجلد Notion. استورد صفحات Markdown وملفات CSV عبر أدوات الاستيراد في حسابك، أو استخدم جداول البيانات مباشرة. راجع عناوين الأعمدة بعد الاستيراد.",
+        "02_Notion_Import/01_Workflows.csv",
+        "Verify: Name | Trigger | Steps | Owner | Status"
+      ],
+      [
+        "Configure one workflow",
+        "Choose New WhatsApp inquiry in the Workflows database. Set the owner to the person answering messages. Set a review date and adapt the tools to your process. Open the matching playbook in 03_Workflow_Playbooks. Keep its sequence: verify product, check stock, draft reply, approve, then log the result.",
+        "اختر عملية استفسار واتساب وحدد المسؤول وتاريخ المراجعة والأدوات. افتح الدليل المطابق واتبع التسلسل: تحقق من المنتج والمخزون، جهز الرد، راجعه ثم سجّل النتيجة.",
+        "DEMO owner: Store manager",
+        "Product check > stock check > draft > review > log"
+      ],
+      [
+        "Run a fictional dry run",
+        "Use a fictional customer asking for a blue linen shirt. Check a demo stock list, adapt a BASIC reply, and record the inquiry in a test tracker. Stop if price or stock is missing. Compare the result with the playbook before using the process with real customers.",
+        "جرّب استفساراً خيالياً عن قميص كتان أزرق. راجع مخزوناً تجريبياً وعدّل رد BASIC وسجّل النتيجة في جدول تجريبي. توقف إن كان السعر أو المخزون مجهولاً.",
+        "Input: blue linen shirt, size M",
+        "Expected: verified reply + tracker entry; no automatic send"
+      ],
+      [
+        "Use optional utilities carefully",
+        "The three JavaScript utilities are examples for a Node.js compatible environment. Read 04_Automation_Starter_Code/00_CODE_SETUP.md first. The files normalize a lead, flag duplicate order references, and create an approved WhatsApp draft link. They do not install a live integration or send messages. Non-technical users can skip this folder.",
+        "الأدوات البرمجية أمثلة اختيارية. اقرأ ملف الإعداد أولاً. تنظّم بيانات العميل وتكشف أرقام الطلبات المكررة وتنشئ رابط مسودة واتساب بعد الموافقة. لا تثبّت تكاملاً ولا ترسل رسائل تلقائياً.",
+        "04_Automation_Starter_Code/00_CODE_SETUP.md",
+        "Optional: test with fictional records only"
+      ],
+      [
+        "Review before going live",
+        "Use the AI Review Checklist from 05_AI_SOP_Library. Confirm consent, factual claims, correct ownership and a recovery step. Keep a human approval step and start with one test case. Back up your workspace and review the workflow weekly. Accounts, paid tools and custom implementation are separate.",
+        "استخدم قائمة مراجعة الذكاء الاصطناعي. تحقق من الموافقة والحقائق والمسؤول وخطوة الاسترجاع. احتفظ بمراجعة بشرية ونسخة احتياطية. الحسابات المدفوعة والتنفيذ المخصص منفصلان.",
+        "05_AI_SOP_Library/04_AI_Review_Checklist.md",
+        "Success: repeatable steps with a named owner"
+      ]
+    ]
+  },
+  "SPRINT": {
+    "name": "7-Day Content Sprint",
+    "ar": "حزمة محتوى لمدة ٧ أيام",
+    "id": "15432147599636",
+    "price": 12,
+    "source": "JUST_AI_Content_Sprint_CUSTOMER_v1",
+    "goal": "Prepare, review and back up one week of content.",
+    "argoal": "جهّز وراجع واحفظ خطة محتوى لأسبوع واحد.",
+    "steps": [
+      [
+        "Open the offline planner",
+        "Extract the complete v2 ZIP. In Original, open 00-START-HERE.html, then 01-PLANNER.html in a modern browser. Desktop is recommended for longer editing. No account is required for the planner. Read the single-business license before reusing the materials.",
+        "فك ضغط v2 وافتح ملف البداية ثم المخطط في متصفح حديث. الكمبيوتر أنسب للتحرير المطول. لا يحتاج المخطط إلى حساب. اقرأ ترخيص النشاط الواحد.",
+        "Original/01-PLANNER.html",
+        "Desktop browser | offline planning"
+      ],
+      [
+        "Fill the first day",
+        "In Day 1, set the date and the channel plus format. For the fictional Cedar Desk studio, use Instagram carousel. Choose one Caption angle and load the selected template before editing. Loading another template can replace the current captions, so export a backup first if needed.",
+        "في اليوم الأول، حدد التاريخ والقناة والصيغة. مثال: منشور إنستغرام متعدد الصور لاستوديو Cedar Desk الخيالي. حمّل زاوية القالب قبل التعديل واحفظ نسخة قبل استبداله.",
+        "Day 1: Instagram carousel",
+        "Choose angle > load template > customize"
+      ],
+      [
+        "Replace placeholders with a useful tip",
+        "Edit English draft and the Arabic draft separately. A finished fictional tip is: Before adding another chart, write the one sentence your audience should remember. Use it as the slide heading. Replace all bracketed text and verify the translation. Use only images you own or are allowed to use.",
+        "عدّل النصين العربي والإنجليزي. مثال: قبل إضافة رسم جديد، اكتب الجملة الوحيدة التي تريد أن يتذكرها الجمهور واجعلها عنوان الشريحة. استبدل الحقول وراجع الترجمة وحقوق الصور.",
+        "One tip: one message per slide",
+        "English + Arabic drafts need separate review"
+      ],
+      [
+        "Plan the visual and status",
+        "Use Visual brief to describe the image or short video. For our example, show a fictional slide before and after simplifying its heading. Mark it Ready only after checking facts, links and image rights. The planner does not publish posts; publish manually in your chosen channel.",
+        "اكتب وصف الصورة أو الفيديو. اعرض شريحة خيالية قبل تبسيط العنوان وبعده. اختر جاهز بعد مراجعة الحقائق والروابط والحقوق. النشر يتم يدوياً خارج المخطط.",
+        "Visual: fictional before/after slide",
+        "Draft > Ready > Posted"
+      ],
+      [
+        "Export a backup and test recovery",
+        "Use Export backup to save the JSON file after each session. Keep it with a dated copy of your plan. Import backup restores the saved plan and may replace your current entries. Use a disposable test copy for your first recovery check. Local browser saving alone is not a reliable backup.",
+        "صدّر نسخة JSON في كل جلسة واحفظها بتاريخ واضح. الاستيراد يعيد الخطة وقد يستبدل الحقول الحالية. جرّب الاستعادة على نسخة تجريبية. لا تعتمد على حفظ المتصفح وحده.",
+        "Export backup > keep dated JSON",
+        "Import only the intended backup"
+      ],
+      [
+        "Record results and choose the next topic",
+        "After posting, record views, saves, replies and qualified inquiries in the metrics notes. Compare similar posts over the same observation period. Use the worked example for reference, not as proof of results. Repeat what was useful, and change one thing at a time in the next week.",
+        "بعد النشر سجّل المشاهدات والحفظ والردود والاستفسارات المؤهلة. قارن خلال مدة متساوية. المثال للتوضيح وليس دليلاً على نتائج. غيّر عنصراً واحداً في الأسبوع التالي.",
+        "Review after the same observation period",
+        "Success: seven reviewed posts + one recoverable backup"
+      ]
+    ]
+  },
+  "MARKETING": {
+    "name": "AI Marketing Toolkit",
+    "ar": "حزمة التسويق بالذكاء الاصطناعي",
+    "id": "15428292804884",
+    "price": 34,
+    "source": null,
+    "goal": "Build a measurable 30-day campaign around one clear offer.",
+    "argoal": "ابنِ حملة قابلة للقياس لمدة ٣٠ يوماً حول عرض واضح.",
+    "steps": [
+      [
+        "Write a specific campaign brief",
+        "Open 01_CAMPAIGN_BRIEF.md. Fill the audience, problem, offer, verified proof, channel, call to action and budget ceiling. The fictional Cedar Desk example sells a slide review checklist. Pick one goal, such as qualified product-page visits, and separate your target from an actual result.",
+        "افتح موجز الحملة وحدد الجمهور والمشكلة والعرض والدليل والقناة والدعوة والإطار المالي. اختر هدفاً واحداً وافصل المستهدف عن النتيجة الفعلية.",
+        "Audience + offer + proof + one CTA",
+        "DEMO: founders reviewing pitch slides"
+      ],
+      [
+        "Plan the month in the workbook",
+        "Open 02_CAMPAIGN_WORKBOOK.xlsx. Read Start, then fill Brief and Calendar. Thirty suggested angles are provided, with editable dates, captions, calls to action, owners and status. Choose the angles that fit your offer; you do not need to post every day.",
+        "افتح المصنف واقرأ البداية ثم الموجز والتقويم. توجد ٣٠ زاوية قابلة للتخصيص مع التاريخ والنص والدعوة والمسؤول والحالة. اختر المناسب ولا يلزم النشر يومياً.",
+        "Start > Brief > Calendar",
+        "Choose the audience problem before the post format"
+      ],
+      [
+        "Draft with the prompt library",
+        "Open 03_AI_PROMPTS_EN_AR.md. Use the campaign brief as input to one of the twelve paired prompts. Ask for a draft based only on your supplied facts and for missing information to be listed. Never paste private customer records. Review tone, translation, links and claims before approving.",
+        "استخدم أحد التوجيهات الاثني عشر باللغتين مع موجزك. اطلب صياغة مبنية على الحقائق وإظهار المعلومات الناقصة. لا تدخل بيانات عملاء خاصة وراجع النبرة والترجمة والروابط.",
+        "12 paired English / Arabic prompts",
+        "Draft > fact check > translation check > approve"
+      ],
+      [
+        "Build a simple campaign sequence",
+        "Choose a playbook from 04_CAMPAIGN_PLAYBOOKS.md: a new offer launch, an educational series, or an opt-in customer follow-up. Use 05_COPY_CANVAS.md to connect the problem, useful proof and one next action. Avoid invented urgency and fabricated testimonials.",
+        "اختر إطلاق عرض أو سلسلة تعليمية أو متابعة بموافقة العميل. استخدم مخطط النص لربط المشكلة بدليل مفيد وخطوة واحدة. لا تختلق ندرة أو شهادات عملاء.",
+        "Educate > demonstrate > invite > review",
+        "One verified claim and one next action"
+      ],
+      [
+        "Record actual measurements",
+        "In the Metrics sheet enter actual impressions, clicks, qualified inquiries, orders, revenue and spend. Calculated rates stay blank when the denominator is zero. Revenue divided by ad spend is return on ad spend, not profit. Keep campaign costs separate from product delivery costs and compare equal periods.",
+        "سجّل الأرقام الفعلية في المؤشرات. تظل النسب فارغة إذا كان المقام صفراً. عائد الإنفاق الإعلاني ليس ربحاً. افصل تكاليف الحملة عن التسليم وقارن فترات متساوية.",
+        "DEMO: 1000 impressions, 50 clicks, 5 inquiries",
+        "Click rate 5%; inquiry rate 10%; illustrative only"
+      ],
+      [
+        "Review and repeat with one change",
+        "Use Experiments to write one hypothesis and choose one variable, such as the headline. Use 06_REVIEW_CHECKLIST.md before publishing and after the test. Record what happened, your uncertainty and the next action. Save a dated backup. This toolkit does not launch ads or connect accounts.",
+        "اكتب فرضية في ورقة التجارب وغيّر متغيراً واحداً مثل العنوان. استخدم قائمة المراجعة قبل النشر وبعد التجربة. سجّل النتائج وحدودها والخطوة التالية واحفظ نسخة مؤرخة.",
+        "Hypothesis > one change > equal review window",
+        "Success: a clear campaign and an honest measurement log"
+      ]
+    ]
+  }
+}
