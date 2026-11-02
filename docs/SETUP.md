@@ -1,5 +1,15 @@
 # Setup
 
+On Windows, use `Start-Shopify.cmd` in the repository root to run the dependency, environment, database, linking, and development steps below. The launcher always changes to its own folder, so the caller's current directory does not matter. For a checkout in the default location, run this single command in PowerShell:
+
+```powershell
+& "$env:USERPROFILE\Documents\Codex\just-ai-shopify\Start-Shopify.cmd"
+```
+
+If npm reports that `C:\Windows\System32\package.json` is missing, it was launched from the wrong directory. Use the launcher above. Do not clone into `System32`. Add `--check` to verify the directory without starting Shopify.
+
+For manual setup:
+
 1. Install Node.js 24 LTS and Git. Run `npm.cmd ci` from the repository root.
 2. Copy `.env.example` to `.env` if it does not already exist. The example contains no credentials. Keep `DATABASE_URL=file:./dev.sqlite` for local development.
 3. Run `npm.cmd run setup` to generate Prisma and apply migrations.

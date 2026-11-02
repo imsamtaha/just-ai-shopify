@@ -17,14 +17,16 @@ The app requests only `read_products`. Product editing, order management, paymen
 Requires Node.js 24 LTS, npm, a Shopify developer account, a registered app, and a development store.
 
 ```powershell
-git clone https://github.com/imsamtaha/just-ai-shopify.git
-Set-Location just-ai-shopify
-npm.cmd ci
-Copy-Item .env.example .env
-npm.cmd run setup
-npm.cmd run config:link
-npm.cmd run dev
+$projectPath = Join-Path $env:USERPROFILE 'Documents\Codex\just-ai-shopify'
+if (-not (Test-Path -LiteralPath $projectPath)) {
+    New-Item -ItemType Directory -Force -Path (Split-Path $projectPath) -ErrorAction Stop | Out-Null
+    git clone https://github.com/imsamtaha/just-ai-shopify.git $projectPath
+    if ($LASTEXITCODE -ne 0) { throw 'Cloning the repository did not complete.' }
+}
+& (Join-Path $projectPath 'Start-Shopify.cmd')
 ```
+
+`Start-Shopify.cmd` switches to its own directory, installs missing dependencies, creates `.env` only when absent, runs database setup, and then opens Shopify linking and development. It stops on command failures. You can run it from any folder, including `System32`; an administrator terminal is unnecessary. Once the repository is present at the path above, only the final launcher command is needed. Run it with `--check` to verify the working directory without signing in or starting the app.
 
 Keep credentials in the ignored `.env` file or your hosting provider's secret manager. Shopify CLI supplies credentials during development. Linking and installation require your Shopify browser login; the connected chat integration does not supply this app's credentials.
 
